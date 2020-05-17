@@ -1,16 +1,23 @@
-# gymkt_library - Knihovna Gymnázia Jaroslava Vrchlického
+# gymkt_library - Web knihovny Gymnázia Jaroslava Vrchlického
 
-TODO:
+## TODO:
 
- KUBA
+ - KUBA
   - create html skelet + css
-  - check github
 
- MAREK
-  - check html, css course
-  - set up github
-  - set up server
+ - MAREK
+  - create communication between frontend and backend using POST
 
+ - GENERAL
+  - finish alpha version
+  - check security (.htaccess, etc...)
+
+## Architecture
+ - gymkt_library
+  - database
+  - Design	// kuba working folder
+  - web		// all the source code that will be on the web server
+   - index.php // home page of knihovna
 
 ## How to set up server
 1. Install apache/httpd - komunikace s TCP socketem a spuštění php init scriptu
