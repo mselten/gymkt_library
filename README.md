@@ -1,5 +1,4 @@
 # Web knihovny Gymnázia Jaroslava Vrchlického
-# gymkt_library
 
 ## TODO:
 	- KUBA
@@ -13,11 +12,13 @@
 		- check security (.htaccess, etc...)
 
 ## Architecture
+```
 - gymkt_library
 	- database
 	- Design		// kuba working folder
 	- web			// all the source code that will be on the web server
 		- index.php	// home page of knihovna
+```
 
 ## How to set up server
 1. Install apache/httpd - komunikace s TCP socketem a spuštění php init scriptu
