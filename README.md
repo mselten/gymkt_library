@@ -12,7 +12,6 @@ TODO:
   - set up server
 
 
-
 ## How to set up server
 1. Install apache/httpd - komunikace s TCP socketem a spuštění php init scriptu
 	- # dnf install httpd
@@ -33,6 +32,3 @@ TODO:
 	- test php
 		- create php test script "info.php" in /var/www/html
 		- try to connect to localhost/info.php
-test
-
-
