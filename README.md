@@ -3,6 +3,7 @@
 ## TODO:
 	- KUBA
 		- create html skelet + css
+		- dark mode: done?
 
 	- MAREK
 	    - repair that classes require shit fest maybe use static class
