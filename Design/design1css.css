@@ -1,0 +1,131 @@
+/* BASIC GLOBAL STUFF ------------------------------------------------------------------------ */
+
+*{
+   font-family: helvetica;
+}
+
+/* DARK MODE BUTTON --------------------------------------------------------------------------0 */
+
+#label_darkMode_button::after {
+  content:"";
+  background-color: #0d1113;
+  border-color:#fff;
+  border-width:2px;
+  border-style:solid;
+  
+  top: 0px;
+  right: 10px;
+  bottom: 0px;
+  position:absolute;
+  width: 15px;
+  display:block;
+  transition: right .1s ease;
+}
+
+#label_darkMode_button::before {
+  content:"";
+  background-color: #4b4b80;
+  border-color:#fff;
+  border-width:2px;
+  border-style:solid;
+  
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  position:absolute;
+  width: 20px;
+  display:block;
+  transition: background-color 1s ease;
+}
+
+body.dark #label_darkMode_button::after {
+  right: -5px;
+}
+
+body.dark #label_darkMode_button::before {
+  background-color: #3580c7;
+}
+
+body.light #label_darkMode_text {
+  color: black;
+}
+
+body.dark #label_darkMode_text {
+  color: white;
+}
+
+/* LIGHT MODE -------------------------------------------------------------------------------- */
+
+body.light {
+   background-color: #eee;
+}
+
+body.light > header > div {
+   background-color:#fff;
+   box-shadow:0px 1px 3px #c1c1c1;
+}
+
+body.light h1 {
+   color: #4a4a4a
+}
+
+body.light footer {
+   box-shadow:0px -1px 1px #717171;
+}
+
+body.light #search_window {
+   background-color:#fff;
+   color: #000; 
+}
+
+body.light #search_bar {
+   background-color: #fff;
+   color: #000;
+   border-color: #7d7d7d; 
+}
+
+body.light #search_button {
+   background-color: #eee;
+}
+
+body.light #search_icon circle {
+   fill: #eee;
+}
+
+/* DARK MODE --------------------------------------------------------------------------------- */
+
+body.dark {
+   background-color: #0d1113;
+}
+
+body.dark > header > div {
+   background-color: #252525;
+   box-shadow:0px 1px 3px #000;
+}
+
+body.dark h1 {
+   color: #fff;
+}
+
+body.dark footer {
+   box-shadow:0px -1px 1px #000;
+}
+
+body.dark #search_window {
+   background-color: #252525;
+   color: #fff; 
+}
+
+body.dark #search_bar {
+   background-color: #0d1113;
+   color: #dcdcdc; 
+   border-color: #7d7d7d;
+}
+
+body.dark #search_button {
+   background-color: #464646;
+}
+
+body.dark #search_icon circle {
+   fill: #464646;
+}
