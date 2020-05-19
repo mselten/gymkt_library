@@ -1,33 +1,36 @@
 # Web knihovny Gymnázia Jaroslava Vrchlického
 
 ## TODO:
-	- KUBA
-	    - check logo, font, color?
-		- improve layout
+```
+- KUBA
+	- check logo, font, color?
+	- improve layout
 
-	- MAREK
-	    - create communication with database and the actual database
-		- validate user input - book search
+- MAREK
+	- create communication with database and the actual database
+	- validate user input - book search
 
-	- GENERAL
-		- finish alpha version
-		- change font??
-		- add meta files
-		- add the robot.txt and other similar files
-		- web page icon
-		- make url nicer user wont know which folder is he in
-		- check security (.htaccess, etc...)
+- GENERAL
+	- finish alpha version
+	- change font??
+	- add meta files
+	- add the robot.txt and other similar files
+	- web page icon
+	- make url nicer user wont know which folder is he in
+	- check security (.htaccess, etc...)
+```
 
 ## Architecture
 ```
 - gymkt_library
 	- database
-	- Design		// kuba working folder
-	- web			// all the source code that will be on the web server
-        - page_viewer    // folder with php scripts
-        - css
-        - view          // folder with all html
-		- index.php	    // home page of knihovna
+	- Design	// kuba working folder
+	- web		// all the source code that will be on the web server
+        	- controller    // php classes
+        	- css
+        	- view          // folder with all html templates
+		- index.php	// home page of knihovna
+		- request.php	// request handler
 ```
 
 ## How to set up server
