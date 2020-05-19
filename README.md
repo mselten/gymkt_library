@@ -16,6 +16,7 @@
 	- add meta files
 	- add the robot.txt and other similar files
 	- web page icon
+	- improve for smartphone use (lanscape mode work, but not portrait mode)
 	- make url nicer user wont know which folder is he in
 	- check security (.htaccess, etc...)
 ```
