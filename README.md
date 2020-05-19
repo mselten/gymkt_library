@@ -2,19 +2,20 @@
 
 ## TODO:
 	- KUBA
-		- create html skelet + css
-		- dark mode: done?
+	    - check logo, font, color?
+		- improve layout
 
 	- MAREK
-	    - create communication with database
+	    - create communication with database and the actual database
 		- validate user input - book search
 
 	- GENERAL
 		- finish alpha version
+		- change font??
 		- add meta files
 		- add the robot.txt and other similar files
 		- web page icon
-		- make url nicer user wont know which folder is he in 
+		- make url nicer user wont know which folder is he in
 		- check security (.htaccess, etc...)
 
 ## Architecture

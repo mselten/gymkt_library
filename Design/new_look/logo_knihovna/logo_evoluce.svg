@@ -1,0 +1,2203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo_evoluce.svg"
+   inkscape:version="1.0beta2 (unknown)"
+   id="svg895"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="1122.5197"
+   width="793.70081">
+  <defs
+     id="defs889">
+    <linearGradient
+       id="linearGradient4300"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#5c5c5c;stop-opacity:1;"
+         offset="0"
+         id="stop4298" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3368"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3366" />
+    </linearGradient>
+    <rect
+       id="rect1460"
+       height="168.94991"
+       width="125.34626"
+       y="76.663418"
+       x="49.110974" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3368"
+       id="linearGradient3370"
+       x1="13.763252"
+       y1="918.40924"
+       x2="39.796525"
+       y2="918.40924"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="33"
+     inkscape:window-x="9"
+     inkscape:window-height="1002"
+     inkscape:window-width="1656"
+     inkscape:snap-text-baseline="false"
+     units="px"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="4330.7635"
+     inkscape:cx="-397.49766"
+     inkscape:zoom="0.041480344"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:showpageshadow="false"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:object-paths="true"
+     inkscape:snap-global="true"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1289"
+       enabled="true" />
+    <sodipodi:guide
+       position="6.6145834,302.29166"
+       orientation="0,-1"
+       id="guide2132"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.458333,241.4375"
+       orientation="0,-1"
+       id="guide2134"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.6309366,269.47454"
+       orientation="1,0"
+       id="guide2157"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="98.889976,269.47456"
+       orientation="1,0"
+       id="guide2159"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid2163"
+       spacingy="20"
+       gridanglex="70"
+       gridanglez="70"
+       empspacing="1"
+       enabled="false" />
+    <sodipodi:guide
+       position="9.6309364,156.14895"
+       orientation="0,-1"
+       id="guide2167"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="25.701171,64.50699"
+       orientation="0,-1"
+       id="guide2498" />
+    <sodipodi:guide
+       position="55.114779,-19.55507"
+       orientation="0,-1"
+       id="guide2687" />
+    <sodipodi:guide
+       position="21.631235,-111.19771"
+       orientation="0,-1"
+       id="guide2773" />
+    <sodipodi:guide
+       position="21.631238,-196.84911"
+       orientation="0,-1"
+       id="guide2787" />
+    <sodipodi:guide
+       position="174.61292,-288.32874"
+       orientation="0,-1"
+       id="guide3095" />
+    <sodipodi:guide
+       position="408.11367,-557.59273"
+       orientation="0,-1"
+       id="guide3249" />
+    <sodipodi:guide
+       position="9.6309364,-664.25709"
+       orientation="0,-1"
+       id="guide3338" />
+    <sodipodi:guide
+       position="-33.921199,-762.83362"
+       orientation="0,-1"
+       id="guide3413" />
+    <sodipodi:guide
+       position="-45.372163,-868.31611"
+       orientation="0,-1"
+       id="guide3485" />
+    <sodipodi:guide
+       position="-119.59731,-994.65101"
+       orientation="0,-1"
+       id="guide3565" />
+    <sodipodi:guide
+       position="-20.331543,-1097.106"
+       orientation="0,-1"
+       id="guide3633" />
+    <sodipodi:guide
+       position="300.67773,-647.02148"
+       orientation="1,0"
+       id="guide3764" />
+    <sodipodi:guide
+       position="-301.2189,-2179.7226"
+       orientation="0,-1"
+       id="guide3785" />
+    <sodipodi:guide
+       position="-68.97714,-2485.7751"
+       orientation="0,-1"
+       id="guide3887" />
+    <sodipodi:guide
+       position="-146.58465,-2325.7378"
+       orientation="0,-1"
+       id="guide7013" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata892">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       transform="scale(0.8155444,1.2261748)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       x="128.4257"
+       y="403.08783"
+       id="text2994"><tspan
+         sodipodi:role="line"
+         id="tspan2992"
+         x="128.4257"
+         y="403.08783"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    <text
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1460);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1458"
+       xml:space="preserve" />
+    <text
+       id="text1478"
+       y="-5.4639215"
+       x="8.60602"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="-5.4639215"
+         x="8.60602"
+         id="tspan1476"
+         sodipodi:role="line">G</tspan></text>
+    <path
+       id="path855-2"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.631088,6.6099603 13.511836,17.04446 11.920201,17.05736 10.773502,11.3466 9.6309366,19.76004 v 7.76541 l 1.1425654,0.86713 -0.142626,27.16992 h 2.333707 c 0,0 0.132884,-7.34168 2.666505,-7.37888 2.533618,0.0372 2.666503,7.37888 2.666503,7.37888 h 2.333705 l -0.14263,-27.16992 1.14257,-0.86713 v -7.76541 l -1.14257,-8.41344 -1.146178,5.71076 -1.592151,-0.0129 z"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(0.81528563,1.226564)"
+       id="text1478-9-6"
+       y="44.940517"
+       x="18.314157"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7412px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551117"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7412px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.551117"
+         y="44.940517"
+         x="18.314157"
+         id="tspan1476-2-1"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="98.149139"
+       y="-5.5033336"
+       id="text2097"><tspan
+         sodipodi:role="line"
+         id="tspan2095"
+         x="98.149139"
+         y="-5.5033336"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">G</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 104.89013,6.6099534 -2.11925,10.4344996 -1.59164,0.0129 -1.1467,-5.710761 -1.142562,8.413441 v 7.76541 l 1.142562,0.86713 -0.142623,27.169919 h 2.333703 c 0,0 0.13289,-7.341679 2.66651,-7.378879 2.53362,0.0372 2.6665,7.378879 2.6665,7.378879 h 2.33371 l -0.14263,-27.169918 1.14257,-0.867131 v -7.76541 l -1.14257,-8.413441 -1.14618,5.710761 -1.59215,-0.0129 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path855-2-1" />
+    <text
+       id="text2097-0"
+       y="44.883835"
+       x="129.07434"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.82px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537298"
+       xml:space="preserve"
+       transform="scale(0.81554439,1.2261748)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.82px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.537298"
+         y="44.883835"
+         x="129.07434"
+         id="tspan2095-2"
+         sodipodi:role="line">G</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 14.565017,90.902352 -1.273331,10.293068 -1.590589,-0.16377 -1.609668,-5.889538 -0.4604924,8.362288 0.6295404,7.83533 1.212863,1.00185 2.060028,27.39872 2.333707,0.25919 c 0,0 -0.462303,-7.39301 2.068302,-7.14915 2.536634,0.31894 3.264706,7.74149 3.264706,7.74149 l 2.333706,0.25921 -2.345284,-27.43042 1.072272,-0.74803 -0.629539,-7.83533 -1.824644,-8.616098 -0.68321,5.634878 -1.593197,-0.18985 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path855-2-19" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+       x="8.1283541"
+       y="112.34401"
+       id="text1478-9-6-7"
+       transform="matrix(0.81528562,0.09055328,0.09943705,1.2376084,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1476-2-1-1"
+         x="8.1283541"
+         y="112.34401"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.551116">G</tspan></text>
+    <path
+       id="path855-2-1-6"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.427,90.778733 -0.96417,10.364287 -1.58663,-0.1413 -1.773694,-5.896023 -0.21253,8.411733 0.85608,7.86611 1.235594,0.98919 2.85295,27.50844 2.32846,0.22633 c 0,0 -0.67677,-7.424 1.84705,-7.21597 2.53203,0.2834 3.47398,7.73318 3.47398,7.73318 l 2.32846,0.22633 -3.13757,-27.53611 1.04441,-0.76757 -0.85607,-7.86611 -2.06751,-8.63335 -0.51405,5.67366 -1.58998,-0.16748 z"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0.81371124,0.07909378,0.13517539,1.2420764,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       x="116.65387"
+       y="105.18037"
+       id="text2097-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan2095-2-7"
+         x="116.65387"
+         y="105.18037"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.537297">G</tspan></text>
+    <g
+       id="g2407"
+       transform="translate(3.0482204,7.4350587)">
+      <path
+         id="path855-2-19-46"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0577844px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 685.53516,731.53711 -4.8125,38.9043 -6.01172,-0.61914 -6.08399,-22.25977 -1.74023,31.60547 2.3789,29.61328 4.58399,3.78711 6.50391,86.52344 a 133.81182,119.77554 69.425164 0 0 10.17773,6.99023 c 0.52259,-7.70269 2.29803,-16.52462 7.74219,-16 7.60657,0.9564 10.87169,18.62718 11.91211,25.96485 a 133.81182,119.77554 69.425164 0 0 9.16015,3.25976 l -8.77734,-102.66016 4.05273,-2.82812 -2.3789,-29.61328 -6.89649,-32.56446 -2.58203,21.29688 -6.02148,-0.7168 z"
+         transform="matrix(0.26458333,0,0,0.26458333,-0.96750958,-6.0008019)"
+         inkscape:connector-curvature="0" />
+      <g
+         aria-label="G"
+         transform="matrix(0.81528563,0.09055328,0.09943705,1.2376084,0,0)"
+         id="text1478-9-6-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116">
+        <path
+           inkscape:connector-curvature="0"
+           d="m 217.03094,161.39413 h 10.40519 v 13.59851 q -1.04052,0.34086 -2.09898,0.6279 -1.05846,0.2691 -2.20662,0.46644 -1.13021,0.1794 -2.38601,0.28704 -1.23786,0.10764 -2.63718,0.10764 -2.94216,0 -5.22054,-0.86112 -2.26044,-0.87906 -3.82122,-2.58335 -1.54284,-1.72224 -2.35014,-4.23384 -0.8073,-2.52954 -0.8073,-5.8305 0,-3.08568 0.897,-5.57934 0.897,-2.49365 2.63718,-4.23383 1.75812,-1.75812 4.3056,-2.691 2.56542,-0.95082 5.86638,-0.95082 2.09898,0 4.10825,0.4485 2.00928,0.4485 3.6777,1.1661 l -1.84782,4.44911 q -1.21992,-0.60995 -2.76276,-1.02257 -1.52489,-0.41262 -3.21125,-0.41262 -1.82988,0 -3.30096,0.64584 -1.45314,0.62789 -2.49366,1.79399 -1.04052,1.1661 -1.59666,2.81658 -0.55614,1.65048 -0.55614,3.6777 0,1.93752 0.37674,3.55212 0.39468,1.59666 1.21992,2.76276 0.82524,1.1661 2.11692,1.81194 1.30962,0.64584 3.12156,0.64584 1.18404,0 1.99134,-0.10764 0.82524,-0.10764 1.54284,-0.25116 v -5.4717 h -4.96938 z"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116"
+           id="path2430" />
+      </g>
+    </g>
+    <ellipse
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.335075"
+       id="path2398-9-5"
+       cx="21.231844"
+       cy="287.96698"
+       rx="32.028881"
+       ry="33.417183"
+       transform="matrix(0.990832,0.13509974,0.00813005,0.99996695,0,0)" />
+    <path
+       id="path855-2-19-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.565,265.09654 -1.273307,10.2934 -1.590598,-0.1638 -1.609723,-5.88958 -0.4604354,8.36229 0.6294174,7.83519 1.212847,1.002 1.71514,22.80791 a 35.086866,30.190545 56.819518 0 0 2.69906,1.92651 c 0.138949,-2.03616 0.609362,-4.36423 2.047938,-4.22559 2.079033,0.26139 2.932433,5.23965 3.176551,7.0471 a 35.086866,30.190545 56.819518 0 0 2.422072,0.95345 l -2.345592,-27.43038 1.072285,-0.74827 -0.629417,-7.83518 -1.824696,-8.616 -0.683163,5.63478 -1.593183,-0.18966 z"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0.81528563,0.09055328,0.09943705,1.2376084,0,0)"
+       id="text1478-9-6-7-8"
+       y="254.36214"
+       x="-9.1929722"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116;stroke-opacity:1"
+         y="254.36214"
+         x="-9.1929722"
+         id="tspan1476-2-1-1-9"
+         sodipodi:role="line">G</tspan></text>
+    <ellipse
+       transform="matrix(0.990832,0.13509974,0.00813005,0.99996695,0,0)"
+       ry="33.417183"
+       rx="32.028881"
+       cy="199.92314"
+       cx="22.892427"
+       id="path2398-9-5-6"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.335076" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 15.494602,177.28013 -1.273331,10.29306 -1.59059,-0.16377 -1.60966,-5.88953 -0.4605,8.36228 0.62954,7.83533 1.21287,1.00185 2.060029,27.39872 2.333701,0.2592 c 0,0 -0.462301,-7.39302 2.068299,-7.14915 2.536642,0.31893 3.264712,7.74148 3.264712,7.74148 l 2.333709,0.25921 -2.34529,-27.43042 1.072269,-0.74803 -0.629528,-7.83533 -1.824652,-8.61609 -0.68321,5.63487 -1.593199,-0.18985 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path855-2-19-3-0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116;stroke-opacity:1"
+       x="0.68967098"
+       y="182.68239"
+       id="text1478-9-6-7-8-3"
+       transform="matrix(0.81528563,0.09055328,0.09943705,1.2376084,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1476-2-1-1-9-3"
+         x="0.68967098"
+         y="182.68239"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116;stroke-opacity:1">G</tspan></text>
+    <ellipse
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.335076"
+       id="path2398-9-5-6-1"
+       cx="113.20464"
+       cy="275.45117"
+       rx="32.028881"
+       ry="33.417183"
+       transform="matrix(0.990832,0.13509974,0.00813005,0.99996695,0,0)" />
+    <path
+       id="path855-2-1-6-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 103.42717,264.9171 -0.96428,10.36423 -1.58647,-0.14161 -1.773537,-5.89576 -0.212907,8.41137 0.856279,7.86619 1.235585,0.9896 2.37453,22.89524 a 35.086866,30.190545 56.819518 0 0 2.74144,1.88931 c 0.0795,-2.04586 0.48049,-4.38393 1.91254,-4.2659 2.05948,0.2305 3.05412,5.14675 3.35845,6.99442 a 35.086866,30.190545 56.819518 0 0 2.43706,0.90794 l -3.13056,-27.47894 1.04438,-0.76792 -0.85627,-7.86567 -2.06758,-8.63356 -0.51418,5.67354 -1.58957,-0.16743 z"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text2097-0-8-1"
+       y="246.87852"
+       x="93.114861"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       xml:space="preserve"
+       transform="matrix(0.81371125,0.07909378,0.13517539,1.2420764,0,0)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297"
+         y="246.87852"
+         x="93.114861"
+         id="tspan2095-2-7-1"
+         sodipodi:role="line">G</tspan></text>
+    <ellipse
+       transform="matrix(0.990832,0.13509974,0.00813005,0.99996695,0,0)"
+       ry="33.417183"
+       rx="32.028881"
+       cy="191.29306"
+       cx="113.89502"
+       id="path2398-9-5-6-1-0"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.335076" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(-128.80921,-202.24847)"
+       id="g2635-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 232.23621,383.10329 -0.96417,10.36429 -1.58663,-0.1413 -1.77369,-5.89603 -0.21253,8.41174 0.85608,7.86611 1.23559,0.98919 2.85295,27.50844 2.32846,0.22633 c 0,0 -0.67677,-7.424 1.84705,-7.21597 2.53203,0.2834 3.47398,7.73318 3.47398,7.73318 l 2.32846,0.22633 -3.13757,-27.53611 1.04441,-0.76757 -0.85607,-7.86611 -2.06751,-8.63335 -0.51405,5.67366 -1.58998,-0.16748 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-1-6-5-0" />
+      <text
+         id="text2097-0-8-1-0"
+         y="332.86014"
+         x="237.12967"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         xml:space="preserve"
+         transform="matrix(0.81371125,0.07909378,0.13517539,1.2420764,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297"
+           y="332.86014"
+           x="237.12967"
+           id="tspan2095-2-7-1-4"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       cy="383.72144"
+       cx="21.927095"
+       id="path2689-4"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <path
+       id="path855-2-4-9"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.631086,359.24516 -2.119249,10.4345 -1.591641,0.0129 -1.146691,-5.71076 -1.1425684,8.41344 v 7.7654 l 1.1425684,0.86714 -0.142629,27.16992 h 2.33371 c 0,0 0.132879,-7.34168 2.6665,-7.37888 2.533621,0.0372 2.6665,7.37888 2.6665,7.37888 h 2.33371 l -0.142629,-27.16992 1.142568,-0.86714 v -7.7654 l -1.142568,-8.41345 -1.146181,5.71077 -1.592148,-0.0129 z"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(0.81528563,1.226564)"
+       id="text1478-9-6-2-8"
+       y="332.43893"
+       x="18.314175"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116"
+         y="332.43893"
+         x="18.314175"
+         id="tspan1476-2-1-4-1"
+         sodipodi:role="line">G</tspan></text>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-9-4"
+       cx="112.4631"
+       cy="383.72144"
+       r="33.5" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 104.89014,359.24516 -2.11925,10.4345 -1.59164,0.0129 -1.1467,-5.71076 -1.142574,8.41344 v 7.76541 l 1.142574,0.86713 -0.142634,27.16992 h 2.333714 c 0,0 0.13289,-7.34168 2.66651,-7.37888 2.53362,0.0372 2.6665,7.37888 2.6665,7.37888 h 2.33371 l -0.14263,-27.16992 1.14257,-0.86713 v -7.76541 l -1.14257,-8.41344 -1.14618,5.71076 -1.59215,-0.0129 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path855-2-1-3-6" />
+    <text
+       id="text2097-0-9-1"
+       y="332.47348"
+       x="129.07434"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       xml:space="preserve"
+       transform="scale(0.8155444,1.2261748)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297"
+         y="332.47348"
+         x="129.07434"
+         id="tspan2095-2-3-5"
+         sodipodi:role="line">G</tspan></text>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-9-1"
+       cx="112.46326"
+       cy="469.77783"
+       r="33.5" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path2990"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 104.36095,445.83077 -2.11924,10.4345 -1.59165,0.013 -1.146677,-5.71076 -1.142574,8.41346 v 7.76541 l 1.142574,0.86712 -0.115754,22.01831 a 33.499999,33.499999 0 0 0 2.656151,1.67587 c 0.33914,-1.90423 1.00423,-3.88385 2.31717,-3.90313 1.8883,0.0277 2.44284,4.11009 2.60294,6.18929 a 33.499999,33.499999 0 0 0 2.39522,0.78443 l -0.14057,-26.76477 1.14258,-0.86712 v -7.76542 l -1.14258,-8.41346 -1.14618,5.71077 -1.59215,-0.013 z" />
+    <path
+       d="m 104.89012,445.3016 -2.11924,10.4345 -1.59165,0.013 -1.14668,-5.71076 -1.142574,8.41346 v 7.76541 l 1.142574,0.86712 -0.115754,22.01831 a 33.499999,33.499999 0 0 0 2.656154,1.67587 c 0.33914,-1.90423 1.00423,-3.88385 2.31717,-3.90313 1.8883,0.0277 2.44284,4.11009 2.60294,6.18929 a 33.499999,33.499999 0 0 0 2.39522,0.78443 l -0.14057,-26.76477 1.14258,-0.86712 v -7.76542 l -1.14258,-8.41346 -1.14618,5.71077 -1.59215,-0.013 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path855-2-1-3-7"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text2097-0-9-2"
+       y="402.65628"
+       x="129.07455"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297;"
+       xml:space="preserve"
+       transform="scale(0.8155444,1.2261748)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297;"
+         y="402.65628"
+         x="129.07455"
+         id="tspan2095-2-3-2"
+         sodipodi:role="line">G</tspan></text>
+    <circle
+       r="33.5"
+       cy="469.03534"
+       cx="23.457296"
+       id="path2689-9"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <g
+       id="g2960"
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-522.81784,-184.42859)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 539.4499,629.51686 -2.11925,10.43451 -1.59164,0.0129 -1.1467,-5.71076 -1.14256,8.41343 v 7.76542 l 1.14256,0.86714 -0.12919,24.62329 a 33.499999,33.499999 0 0 0 2.42518,0.87696 c 0.20608,-2.16863 0.81002,-5.68351 2.5616,-5.70923 2.16242,0.0317 2.57209,5.35225 2.64687,6.91999 a 33.499999,33.499999 0 0 0 2.35231,0.26718 l -0.1416,-26.97819 1.14257,-0.86714 v -7.76542 l -1.14257,-8.41343 -1.14618,5.71076 -1.59215,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path2954" />
+      <text
+         transform="scale(0.81528563,1.226564)"
+         id="text2958"
+         y="552.78754"
+         x="660.81152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="552.78754"
+           x="660.81152"
+           id="tspan2956"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g2952"
+       transform="translate(-522.28868,-184.95776)">
+      <path
+         id="path855-2-4-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 539.4499,629.51686 -2.11925,10.43451 -1.59164,0.0129 -1.1467,-5.71076 -1.14256,8.41343 v 7.76542 l 1.14256,0.86714 -0.12919,24.62329 a 33.499999,33.499999 0 0 0 2.42518,0.87696 c 0.20608,-2.16863 0.81002,-5.68351 2.5616,-5.70923 2.16242,0.0317 2.57209,5.35225 2.64687,6.91999 a 33.499999,33.499999 0 0 0 2.35231,0.26718 l -0.1416,-26.97819 1.14257,-0.86714 v -7.76542 l -1.14257,-8.41343 -1.14618,5.71076 -1.59215,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="660.81152"
+         y="552.78754"
+         id="text1478-9-6-2-81"
+         transform="scale(0.81528563,1.226564)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-4-2"
+           x="660.81152"
+           y="552.78754"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-9-3"
+       cx="313.50308"
+       cy="468.84369"
+       r="33.5" />
+    <g
+       transform="translate(-232.77202,-184.62028)"
+       style="fill:#000000;fill-opacity:1"
+       id="g2960-6">
+      <path
+         id="path2954-4"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 539.4499,629.51686 -2.11925,10.43451 -1.59164,0.0129 -1.1467,-5.71076 -1.14256,8.41343 v 7.76542 l 1.14256,0.86714 -0.12919,24.62329 a 33.499999,33.499999 0 0 0 2.42518,0.87696 c 0.20608,-2.16863 0.81002,-5.68351 2.5616,-5.70923 2.16242,0.0317 2.57209,5.35225 2.64687,6.91999 a 33.499999,33.499999 0 0 0 2.35231,0.26718 l -0.1416,-26.97819 1.14257,-0.86714 v -7.76542 l -1.14257,-8.41343 -1.14618,5.71076 -1.59215,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="660.81152"
+         y="552.78754"
+         id="text2958-0"
+         transform="scale(0.81528563,1.226564)"><tspan
+           sodipodi:role="line"
+           id="tspan2956-3"
+           x="660.81152"
+           y="552.78754"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       transform="translate(-232.24288,-185.14945)"
+       id="g2952-5"
+       style="fill:#ff0000">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 539.4499,629.51686 -2.11925,10.43451 -1.59164,0.0129 -1.1467,-5.71076 -1.14256,8.41343 v 7.76542 l 1.14256,0.86714 -0.12919,24.62329 a 33.499999,33.499999 0 0 0 2.42518,0.87696 c 0.20608,-2.16863 0.81002,-5.68351 2.5616,-5.70923 2.16242,0.0317 2.57209,5.35225 2.64687,6.91999 a 33.499999,33.499999 0 0 0 2.35231,0.26718 l -0.1416,-26.97819 1.14257,-0.86714 v -7.76542 l -1.14257,-8.41343 -1.14618,5.71076 -1.59215,-0.0129 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-4-2-8" />
+      <text
+         transform="scale(0.81528563,1.226564)"
+         id="text1478-9-6-2-81-5"
+         y="552.78754"
+         x="660.81152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.551116"
+           y="552.78754"
+           x="660.81152"
+           id="tspan1476-2-1-4-2-0"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       cy="560.72821"
+       cx="314.78018"
+       id="path2689-9-1-2"
+       style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <path
+       d="m 306.67787,536.78123 -2.11924,10.4345 -1.59165,0.013 -1.14668,-5.71076 -1.14257,8.41346 v 7.76541 l 1.14257,0.86712 -0.11575,22.01831 a 33.499999,33.499999 0 0 0 2.65615,1.67587 c 0.33914,-1.90423 1.00423,-3.88385 2.31717,-3.90313 1.8883,0.0277 2.44284,4.11009 2.60294,6.18929 a 33.499999,33.499999 0 0 0 2.39522,0.78443 l -0.14057,-26.76477 1.14258,-0.86712 v -7.76542 l -1.14258,-8.41346 -1.14618,5.71077 -1.59215,-0.013 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2990-4"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path855-2-1-3-7-9"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 307.20704,536.25206 -2.11924,10.4345 -1.59165,0.013 -1.14668,-5.71076 -1.14257,8.41346 v 7.76542 l 1.14257,0.86711 -0.11575,22.01831 a 33.499999,33.499999 0 0 0 2.65615,1.67587 c 0.33914,-1.90423 1.00423,-3.88385 2.31717,-3.90313 1.8883,0.0277 2.44284,4.11009 2.60294,6.18929 a 33.499999,33.499999 0 0 0 2.39522,0.78444 l -0.14057,-26.76478 1.14258,-0.86711 v -7.76543 l -1.14258,-8.41346 -1.14618,5.71077 -1.59215,-0.013 z" />
+    <text
+       id="text2994-0"
+       y="477.26199"
+       x="376.50162"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       xml:space="preserve"
+       transform="scale(0.8155444,1.2261748)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297"
+         y="477.26199"
+         x="376.50162"
+         id="tspan2992-1"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       transform="scale(0.8155444,1.2261748)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       x="377.15048"
+       y="476.83044"
+       id="text2097-0-9-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan2095-2-3-2-0"
+         x="377.15048"
+         y="476.83044"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    <circle
+       r="33.5"
+       cy="560.72833"
+       cx="112.99243"
+       id="path2689-9-1-0"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <path
+       d="m 104.89012,536.78123 -2.11924,10.4345 -1.59165,0.013 -1.14667,-5.71076 -1.142584,8.41346 v 7.76541 l 1.142584,0.86712 -0.115759,22.01831 a 33.499999,33.499999 0 0 0 2.656149,1.67587 c 0.33914,-1.90423 1.00423,-3.88385 2.31717,-3.90313 1.8883,0.0277 2.44284,4.11009 2.60294,6.18929 a 33.499999,33.499999 0 0 0 2.39522,0.78443 l -0.14057,-26.76477 1.14258,-0.86712 v -7.76542 l -1.14258,-8.41346 -1.14618,5.71077 -1.59215,-0.013 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2990-6"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path855-2-1-3-7-3"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.41929,536.25206 -2.11924,10.4345 -1.59165,0.013 -1.14668,-5.71076 -1.142569,8.41346 v 7.76541 l 1.142569,0.86712 -0.11575,22.01831 a 33.499999,33.499999 0 0 0 2.65615,1.67587 c 0.33914,-1.90423 1.00423,-3.88385 2.31717,-3.90313 1.8883,0.0277 2.44284,4.11009 2.60294,6.18929 a 33.499999,33.499999 0 0 0 2.39522,0.78443 l -0.14057,-26.76477 1.14258,-0.86712 v -7.76542 l -1.14258,-8.41346 -1.14618,5.71077 -1.59215,-0.013 z" />
+    <text
+       id="text2994-9"
+       y="477.26193"
+       x="129.07455"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       xml:space="preserve"
+       transform="scale(0.8155444,1.2261748)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297"
+         y="477.26193"
+         x="129.07455"
+         id="tspan2992-0"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       transform="scale(0.8155444,1.2261748)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       x="129.7234"
+       y="476.83041"
+       id="text2097-0-9-2-8"><tspan
+         sodipodi:role="line"
+         id="tspan2095-2-3-2-3"
+         x="129.7234"
+         y="476.83041"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-9-8"
+       cx="22.456308"
+       cy="560.3233"
+       r="33.5" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 15.63109,536.37621 -2.11925,10.43451 -1.59164,0.0129 -1.1467,-5.71076 -1.14256,8.41343 v 7.76542 l 1.14256,0.86714 -0.12919,24.62329 a 33.499999,33.499999 0 0 0 2.42518,0.87696 c 0.20608,-2.16863 0.81002,-5.68351 2.5616,-5.70923 2.16242,0.0317 2.57209,5.35225 2.64687,6.91999 a 33.499999,33.499999 0 0 0 2.35231,0.26718 l -0.1416,-26.97819 1.14257,-0.86714 v -7.76542 l -1.14257,-8.41343 -1.14618,5.71076 -1.59215,-0.0129 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path2954-3" />
+    <path
+       id="path855-2-4-2-5"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.16023,535.84704 -2.11925,10.43451 -1.59164,0.0129 -1.1467,-5.71076 -1.14256,8.41343 v 7.76542 l 1.14256,0.86714 -0.12919,24.62329 a 33.499999,33.499999 0 0 0 2.42518,0.87696 c 0.20608,-2.16863 0.81002,-5.68351 2.5616,-5.70923 2.16242,0.0317 2.57209,5.35225 2.64687,6.91999 a 33.499999,33.499999 0 0 0 2.35231,0.26718 l -0.1416,-26.97819 1.14257,-0.86714 v -7.76542 l -1.14257,-8.41343 -1.14618,5.71076 -1.59215,-0.0129 z"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="scale(0.81528563,1.226564)"
+       id="text2958-1"
+       y="476.85129"
+       x="18.31423"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+         y="476.85129"
+         x="18.31423"
+         id="tspan2956-0"
+         sodipodi:role="line">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+       x="18.963255"
+       y="476.41989"
+       id="text1478-9-6-2-81-0"
+       transform="scale(0.81528563,1.226564)"><tspan
+         sodipodi:role="line"
+         id="tspan1476-2-1-4-2-3"
+         x="18.963255"
+         y="476.41989"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.0402269"
+       y="756.58569"
+       id="text3241"><tspan
+         sodipodi:role="line"
+         id="tspan3239"
+         x="7.0402269"
+         y="756.58569"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2222px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">Náklon doprava</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 18.244027,805.64018 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.1478674,27.16992 h 2.3337074 c 0,0 0.674726,-7.34168 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333706 l 1.862611,-27.16992 1.206567,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567655,5.71076 -1.591199,-0.0129 z"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path855-2-10" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+       x="94.449669"
+       y="696.37836"
+       id="text1478-9-6-3"
+       transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1476-2-1-5"
+         x="94.449669"
+         y="696.37836"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.551116">G</tspan></text>
+    <path
+       id="path855-2-1-9"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 107.50307,805.64018 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.573112,7.76541 1.078562,0.86713 -2.14786,27.16992 h 2.3337 c 0,0 0.67473,-7.34168 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16992 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+       inkscape:connector-curvature="0" />
+    <text
+       transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+       x="205.1857"
+       y="696.52844"
+       id="text2097-0-4"><tspan
+         sodipodi:role="line"
+         id="tspan2095-2-8"
+         x="205.1857"
+         y="696.52844"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.537297">G</tspan></text>
+    <circle
+       r="33.5"
+       cy="936.78082"
+       cx="22.647573"
+       id="path2689-4-9-3"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <g
+       id="g3364"
+       transform="translate(-4.1323154,18.37156)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-4-9-3-7"
+       cx="113.18359"
+       cy="936.78082"
+       r="33.5" />
+    <g
+       id="g3411"
+       transform="translate(-32.725134,-35.944)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="path855-2-1-9-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         x="258.21796"
+         y="812.83191"
+         id="text2097-0-4-4"><tspan
+           sodipodi:role="line"
+           id="tspan2095-2-8-9"
+           x="258.21796"
+           y="812.83191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    </g>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-4-9-3-9"
+       cx="22.647573"
+       cy="1035.3574"
+       r="33.5" />
+    <g
+       id="g3475"
+       transform="translate(-4.6614821,117.47726)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path3469" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text3473"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3471"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(-4.1323154,116.94809)"
+       id="g3364-1">
+      <path
+         id="path855-2-10-0-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text1478-9-6-3-3-4"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan1476-2-1-5-3-2"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       cy="1035.3574"
+       cx="113.1836"
+       id="path2689-4-9-3-7-0"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <g
+       id="g3483"
+       transform="translate(-33.254301,63.161697)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         id="path3477"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         x="258.21796"
+         y="812.83191"
+         id="text3481"><tspan
+           sodipodi:role="line"
+           id="tspan3479"
+           x="258.21796"
+           y="812.83191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(-32.725134,62.63253)"
+       id="g3411-6">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-1-9-9-5" />
+      <text
+         id="text2097-0-4-4-9"
+         y="812.83191"
+         x="258.21796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         xml:space="preserve"
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297"
+           y="812.83191"
+           x="258.21796"
+           id="tspan2095-2-8-9-5"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       cy="1140.3107"
+       cx="23.176741"
+       id="path2689-4-9-3-9-6"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.073982,222.43058)"
+       id="g3475-1">
+      <path
+         id="path3469-1"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7"
+       transform="translate(-3.6031488,221.90141)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-4-9-3-7-0-3"
+       cx="113.71277"
+       cy="1140.3108"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-31.6668,168.11502)"
+       id="g3483-9">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path3477-2" />
+      <text
+         id="text3481-4"
+         y="812.83191"
+         x="258.21796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         xml:space="preserve"
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297"
+           y="812.83191"
+           x="258.21796"
+           id="tspan3479-4"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3411-6-4"
+       transform="translate(-32.195974,167.58585)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="path855-2-1-9-9-5-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         x="258.21796"
+         y="812.83191"
+         id="text2097-0-4-4-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan2095-2-8-9-5-3"
+           x="258.21796"
+           y="812.83191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    </g>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-4-9-3-9-6-8"
+       cx="22.647573"
+       cy="1267.1748"
+       r="33.5" />
+    <g
+       id="g3475-1-3"
+       transform="translate(-4.6614828,348.23631)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path3469-1-2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text3473-4-9"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3471-3-5"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(-4.1323154,348.76548)"
+       id="g3364-1-7-4">
+      <path
+         id="path855-2-10-0-9-2-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text1478-9-6-3-3-4-7-9"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan1476-2-1-5-3-2-3-4"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       cy="1267.1749"
+       cx="113.18361"
+       id="path2689-4-9-3-7-0-3-9"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <g
+       id="g3483-9-5"
+       transform="translate(-33.2543,293.92076)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         id="path3477-2-5"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         x="258.21796"
+         y="812.83191"
+         id="text3481-4-7"><tspan
+           sodipodi:role="line"
+           id="tspan3479-4-3"
+           x="258.21796"
+           y="812.83191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    </g>
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(-32.72514,294.44994)"
+       id="g3411-6-4-9">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-1-9-9-5-9-0" />
+      <text
+         id="text2097-0-4-4-9-9-7"
+         y="812.83191"
+         x="258.21796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         xml:space="preserve"
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297"
+           y="812.83191"
+           x="258.21796"
+           id="tspan2095-2-8-9-5-3-2"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       cy="1369.6298"
+       cx="22.647573"
+       id="path2689-4-9-3-9-6-8-7"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.60315,450.69131)"
+       id="g3475-1-3-2">
+      <path
+         id="path3469-1-2-9"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-9-0"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-5-5"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-4-0"
+       transform="translate(-4.1323154,451.22047)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-3-4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-9-1"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-4-7"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-4-9-3-7-0-3-9-9"
+       cx="113.1836"
+       cy="1369.6299"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-32.195965,396.37576)"
+       id="g3483-9-5-3">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path3477-2-5-6" />
+      <text
+         id="text3481-4-7-2"
+         y="812.83191"
+         x="258.21796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         xml:space="preserve"
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.537297"
+           y="812.83191"
+           x="258.21796"
+           id="tspan3479-4-3-1"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3411-6-4-9-2"
+       transform="translate(-32.725141,396.90495)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="path855-2-1-9-9-5-9-0-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         x="258.21796"
+         y="812.83191"
+         id="text2097-0-4-4-9-9-7-3"><tspan
+           sodipodi:role="line"
+           id="tspan2095-2-8-9-5-3-2-9"
+           x="258.21796"
+           y="812.83191"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297">G</tspan></text>
+    </g>
+    <path
+       id="path855-2-10-1"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       d="m 15.910337,2573.7852 -2.8894,10.4345 -1.5926,0.013 -0.7252,-5.7108 -1.7635004,8.4135 -0.5731,7.7654 1.0785,0.8671 -2.1478,27.1699 h 2.3337 c 0,0 0.6747004,-7.3416 3.2111004,-7.3788 2.5309,0.037 2.1219,7.3788 2.1219,7.3788 h 2.3337 l 1.8626,-27.1699 1.2066,-0.8671 0.5731,-7.7654 -0.5216,-8.4135 -1.5677,5.7108 -1.5912,-0.013 z"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.308279;stroke-opacity:1"
+       id="path2689-4-9-3-70"
+       cx="590.55835"
+       cy="976.83783"
+       rx="33.5"
+       ry="34.932465"
+       transform="matrix(1,0,-0.28342882,0.95899328,0,0)" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(286.91448,18.37156)"
+       id="g3364-5">
+      <path
+         id="path855-2-10-0-2"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text1478-9-6-3-3-7"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan1476-2-1-5-3-9"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <ellipse
+       cy="976.83783"
+       cx="681.09442"
+       id="path2689-4-9-3-7-1"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.308279;stroke-opacity:1"
+       rx="33.5"
+       ry="34.932465"
+       transform="matrix(1,0,-0.28342882,0.95899328,0,0)" />
+    <g
+       style="fill:#ffffff;fill-opacity:1"
+       transform="translate(258.32166,-35.94398)"
+       id="g3411-9">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 140.2282,948.24853 -2.88936,10.4345 -1.59259,0.0129 -0.72522,-5.71076 -1.76351,8.41344 -0.57311,7.76541 1.07856,0.86713 -2.14786,27.16993 h 2.3337 c 0,0 0.67473,-7.34169 3.2111,-7.37888 2.53087,0.0372 2.12191,7.37888 2.12191,7.37888 h 2.33371 l 1.86261,-27.16993 1.20657,-0.86713 0.57311,-7.76541 -0.52162,-8.41344 -1.56766,5.71076 -1.5912,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-1-9-9-6" />
+      <text
+         id="text2097-0-4-4-3"
+         y="812.83191"
+         x="258.21796"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;line-height:1.25;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.537297"
+         xml:space="preserve"
+         transform="matrix(0.8155444,0,-0.09049626,1.2261748,0,0)"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.8201px;font-family:'TeX Gyre Heros';-inkscape-font-specification:'TeX Gyre Heros Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.537297"
+           y="812.83191"
+           x="258.21796"
+           id="tspan2095-2-8-9-6"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <text
+       transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+       id="text1478-9-6-3-8"
+       y="2136.196"
+       x="252.10585"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         y="2136.196"
+         x="252.10585"
+         id="tspan1476-2-1-5-8"
+         sodipodi:role="line">G</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccccccccccccccccccsccccccccccssccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       d="m 16.456845,2733.8277 c -0.295407,0 -0.553561,0.2 -0.632513,0.4847 l -2.7559,9.9529 h -0.508 l -0.65061,-5.1273 c -0.09649,-0.7367 -1.147022,-0.7792 -1.302756,-0.053 l -1.7631834,8.4145 c -0.0066,0.028 -0.01111,0.057 -0.01402,0.086 l -0.572056,7.7655 c -0.0164,0.2169 0.07469,0.4281 0.24392,0.5648 l 0.806661,0.648 -2.1192593,26.8206 c -0.02974,0.3838 0.273341,0.7119 0.6583623,0.7126 h 2.3337054 c 0.341206,-1e-4 0.626348,-0.2597 0.658363,-0.5994 0,0 0.168989,-1.7966 0.636666,-3.5683 0.233839,-0.8858 0.547397,-1.7599 0.910537,-2.3595 0.360469,-0.5953 0.694161,-0.8374 1.007693,-0.8455 0.148616,0 0.248258,0.041 0.378777,0.1561 0.134435,0.1189 0.285062,0.3307 0.418068,0.6211 0.265986,0.5809 0.45175,1.4528 0.554487,2.3358 0.205476,1.7659 0.107474,3.5626 0.107474,3.5626 -0.02037,0.3793 0.282099,0.6979 0.661988,0.6971 h 2.332143 c 0.347477,0 0.635953,-0.2683 0.660427,-0.6149 l 0.193807,-1.7771 c 0.06472,-0.9339 -1.214147,-1.0885 -1.326039,0 l -0.145203,1.0701 h -1.076405 c 0.02011,-0.5133 0.08811,-1.5292 -0.09356,-3.0902 -0.111363,-0.9571 -0.299032,-1.928 -0.668153,-2.7342 -0.184573,-0.403 -0.416533,-0.7707 -0.74414,-1.0604 -0.327634,-0.2897 -0.769594,-0.4871 -1.245923,-0.4941 -0.0066,-1e-4 -0.01323,-1e-4 -0.01958,0 -0.952659,0.014 -1.650259,0.701 -2.126986,1.4883 -0.476726,0.7873 -0.80645,1.7547 -1.058333,2.7089 -0.4236774,1.605 -0.5174724,2.7193 -0.5663674,3.1817 h -1.066615 l 2.0898124,-26.4552 c 0.01773,-0.2182 -0.07358,-0.431 -0.24392,-0.5684 l -0.8066884,-0.6502 0.5426084,-7.3752 0.947763,-4.5176 0.228389,1.8066 c 0.0422,0.3327 0.326654,0.5812 0.661987,0.5783 l 1.593692,-0.014 c 0.294692,0 0.552,-0.2003 0.630978,-0.4842 l 2.015384,-7.2813 0.929667,7.1893 c 0.0426,0.3275 0.320278,0.5735 0.650584,0.5762 l 1.591654,0.014 c 0.299693,0 0.563456,-0.1973 0.642858,-0.4863 l 0.515726,-1.8789 0.273367,4.4023 c 0.07715,0.7557 1.268095,0.709 1.321885,0.053 0.0026,-0.03 0.0026,-0.06 0,-0.09 l -0.521415,-8.414 c -0.05241,-0.7395 -1.095322,-0.8463 -1.296564,-0.1328 l -1.433512,5.2188 h -0.50591 l -1.275371,-9.8614 c -0.0431,-0.3313 -0.32639,-0.5784 -0.660427,-0.5762 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+       id="path3848" />
+    <g
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="text1478-9-6-3-8-4"
+       transform="matrix(0.81528563,0,-0.09052499,1.226564,-721.96889,156.52715)"
+       aria-label="G">
+      <path
+         id="path3844"
+         d="m 1154.541,2112.334 c -2.2641,0 -4.2987,0.3262 -6.0957,0.9922 -1.7774,0.6511 -3.2997,1.6005 -4.543,2.8437 -1.2316,1.2317 -2.1654,2.7321 -2.7929,4.4766 -0.6274,1.7442 -0.9356,3.6834 -0.9356,5.8047 0,2.2545 0.2744,4.2654 0.8379,6.0312 0.5623,1.7493 1.3894,3.2482 2.4863,4.4726 1.1097,1.2118 2.4767,2.1342 4.0703,2.7539 a 0.66152613,0.66152613 0 0 0 0.01,0 c 1.607,0.6074 3.4291,0.9043 5.4551,0.9043 0.9498,0 1.8467,-0.038 2.6933,-0.1113 v 0 c 0.8516,-0.073 1.6628,-0.1706 2.4336,-0.2929 a 0.66152613,0.66152613 0 0 0 0.01,0 c 0.7815,-0.1343 1.5342,-0.2926 2.2578,-0.4766 a 0.66152613,0.66152613 0 0 0 0.01,0 c 0.7166,-0.1943 1.4263,-0.4059 2.1309,-0.6367 a 0.66152613,0.66152613 0 0 0 0.457,-0.6289 v -13.5996 a 0.66152613,0.66152613 0 0 0 -0.6621,-0.6602 h -10.4063 a 0.66152613,0.66152613 0 0 0 -0.6601,0.6602 v 4.6289 a 0.66152613,0.66152613 0 0 0 0.6601,0.6621 h 4.3086 v 4.2481 c -0.3153,0.055 -0.6201,0.111 -0.9668,0.1562 -0.4962,0.066 -1.135,0.1015 -1.9043,0.1015 -1.1278,0 -2.0603,-0.2001 -2.8242,-0.5761 v 0 c -0.7673,-0.3843 -1.3806,-0.9112 -1.8692,-1.6016 -0.4962,-0.7011 -0.8708,-1.5417 -1.1172,-2.5371 -2e-4,-9e-4 0,0 0,0 -0.2366,-1.0171 -0.3574,-2.1474 -0.3574,-3.3926 0,-1.291 0.1768,-2.4441 0.5214,-3.4668 0.346,-1.0267 0.8355,-1.8825 1.4649,-2.5879 0.6311,-0.7073 1.3771,-1.2447 2.2617,-1.6269 0.8883,-0.39 1.8931,-0.5898 3.0352,-0.5898 1.0703,0 2.0798,0.1316 3.0371,0.3906 0.992,0.2653 1.8718,0.5911 2.6387,0.9746 a 0.66152613,0.66152613 0 0 0 0.9062,-0.3379 l 1.8477,-4.4492 a 0.66152613,0.66152613 0 0 0 -0.3496,-0.8613 c -1.1549,-0.4968 -2.4202,-0.8963 -3.7949,-1.2032 -1.3874,-0.3096 -2.8055,-0.4648 -4.252,-0.4648 z m 0,1.3222 c 1.3522,0 2.6731,0.1453 3.9649,0.4336 1.0754,0.2401 2.0197,0.5765 2.9355,0.9317 l -1.3301,3.1992 c -0.698,-0.3045 -1.4032,-0.603 -2.2226,-0.8223 v 0 c -1.0754,-0.2908 -2.2033,-0.4355 -3.3808,-0.4355 -1.2977,0 -2.4933,0.2301 -3.5664,0.7012 -1.0518,0.4549 -1.967,1.1121 -2.7227,1.9589 -0.7579,0.8494 -1.333,1.873 -1.7285,3.0469 -0.397,1.178 -0.5918,2.4767 -0.5918,3.8887 0,1.3345 0.13,2.5677 0.3945,3.7012 a 0.66152613,0.66152613 0 0 0 0,0.01 c 0.2799,1.1323 0.7186,2.1333 1.3222,2.9864 0.6109,0.8632 1.4082,1.5449 2.3614,2.0214 0.9816,0.4842 2.1275,0.7149 3.4141,0.7149 0.8086,0 1.4982,-0.036 2.0781,-0.1133 0.5631,-0.073 1.0909,-0.1588 1.5859,-0.2578 a 0.66152613,0.66152613 0 0 0 0.5313,-0.6484 v -5.473 a 0.66152613,0.66152613 0 0 0 -0.6602,-0.6602 h -4.3086 v -3.3066 h 9.0821 v 12.4453 c -0.5339,0.1681 -1.0684,0.3337 -1.6094,0.4805 -0.6849,0.1738 -1.4005,0.3249 -2.1465,0.4531 -0.7341,0.1163 -1.5099,0.211 -2.3301,0.2813 -0.8038,0.07 -1.6622,0.1054 -2.5781,0.1054 -1.8947,0 -3.5528,-0.2769 -4.9825,-0.8164 h -0.01 c -1.4168,-0.552 -2.5948,-1.352 -3.5645,-2.4102 -6e-4,-7e-4 0,0 0,0 -0.9575,-1.0704 -1.6938,-2.3926 -2.2071,-3.9883 -0.5128,-1.607 -0.7773,-3.4823 -0.7773,-5.6289 0,-1.9931 0.2908,-3.7748 0.8594,-5.3555 0.5684,-1.5803 1.3938,-2.9016 2.4824,-3.9902 1.1005,-1.1005 2.446,-1.9444 4.0644,-2.5371 1.6236,-0.6017 3.4996,-0.9102 5.6367,-0.9102 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-317.64055,99.064731)"
+       id="g4145">
+      <rect
+         y="1537.2189"
+         x="620.80035"
+         height="71.573097"
+         width="71.573097"
+         id="rect4017"
+         style="fill:#143d59;fill-opacity:0.996078;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+      <rect
+         style="fill:#f4b41a;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4021"
+         width="71.573097"
+         height="71.573097"
+         x="692.37341"
+         y="1537.2189" />
+    </g>
+    <g
+       transform="translate(-318.4516,121.00221)"
+       id="g4149">
+      <rect
+         style="fill:#210070;fill-opacity:0.996078;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4027"
+         width="71.573097"
+         height="71.573097"
+         x="620.19305"
+         y="1625.1194" />
+      <rect
+         y="1625.1194"
+         x="691.76617"
+         height="71.573097"
+         width="71.573097"
+         id="rect4029"
+         style="fill:#21d8c7;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+    </g>
+    <g
+       transform="translate(-317.08244,135.19519)"
+       id="g4153">
+      <rect
+         y="1720.7644"
+         x="619.88763"
+         height="71.573097"
+         width="71.573097"
+         id="rect4027-7"
+         style="fill:#5c5c5c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4029-3"
+         width="71.573097"
+         height="71.573097"
+         x="691.46075"
+         y="1720.7644" />
+    </g>
+    <g
+       transform="translate(-319.10738,121.15233)"
+       id="g4157">
+      <rect
+         y="1844.6453"
+         x="621.55798"
+         height="71.573097"
+         width="71.573097"
+         id="rect4027-4"
+         style="fill:#004455;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4029-7"
+         width="71.573097"
+         height="71.573097"
+         x="693.1311"
+         y="1844.6453" />
+    </g>
+    <g
+       transform="translate(-326.2856,126.10678)"
+       id="g4161">
+      <rect
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4027-4-2"
+         width="71.573097"
+         height="71.573097"
+         x="627.67249"
+         y="1949.5288" />
+      <rect
+         y="1949.5288"
+         x="699.24561"
+         height="71.573097"
+         width="71.573097"
+         id="rect4029-7-1"
+         style="fill:#4daaa7;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+    </g>
+    <g
+       transform="translate(-291.55835,134.68575)"
+       id="g4165">
+      <rect
+         style="fill:#394141;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4027-4-7"
+         width="71.573097"
+         height="71.573097"
+         x="592.59064"
+         y="2050.7878" />
+      <rect
+         y="2050.7878"
+         x="664.16376"
+         height="71.573097"
+         width="71.573097"
+         id="rect4029-7-9"
+         style="fill:#8fd974;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+    </g>
+    <g
+       transform="translate(-294.48118,155.22443)"
+       id="g4169">
+      <rect
+         y="2140.0872"
+         x="596.57721"
+         height="71.573097"
+         width="71.573097"
+         id="rect4027-4-7-5"
+         style="fill:#2f455c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+      <rect
+         style="fill:#1dcdfe;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4029-7-9-6"
+         width="71.573097"
+         height="71.573097"
+         x="668.15033"
+         y="2140.0872" />
+    </g>
+    <g
+       id="g4173"
+       transform="translate(-282.3451,157.42473)">
+      <rect
+         y="2247.7249"
+         x="583.02283"
+         height="71.573097"
+         width="71.573097"
+         id="rect4027-4-7-8"
+         style="fill:#191035;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:0.957779;paint-order:stroke markers fill"
+         id="rect4029-7-9-9"
+         width="71.573097"
+         height="71.573097"
+         x="654.59595"
+         y="2247.7249" />
+    </g>
+    <circle
+       r="33.5"
+       style="fill:#143d58;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="path2689-4-9-3-9-6-5"
+       cx="22.647566"
+       cy="1672.4287" />
+    <g
+       id="g3475-1-5"
+       transform="translate(-3.6031154,754.54862)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path3469-1-21" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text3473-4-5"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan3471-3-9"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#f4b41a;fill-opacity:1"
+       transform="translate(-4.1322854,754.01945)"
+       id="g3364-1-7-9">
+      <path
+         id="path855-2-10-0-9-2-1"
+         style="fill:#f4b41a;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text1478-9-6-3-3-4-7-6"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f4b41a;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f4b41a;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan1476-2-1-5-3-2-3-2"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       cy="2452.2463"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-0"
+       style="fill:#191035;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031454,1534.3663)"
+       id="g3475-1-5-5">
+      <path
+         id="path3469-1-21-3"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-2"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-1"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-9"
+       transform="translate(-4.1323154,1533.8371)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-7" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-6"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-8"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="1775.8351"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-06"
+       style="fill:#21006f;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031154,857.95495)"
+       id="g3475-1-5-4">
+      <path
+         id="path3469-1-21-33"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-6"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-9"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-0"
+       transform="translate(-4.1322854,857.42578)"
+       style="fill:#21d8c7;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#21d8c7;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-4" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#21d8c7;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-8"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-5"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#21d8c7;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="1897.613"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-2"
+       style="fill:#5c5c5c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031154,979.73297)"
+       id="g3475-1-5-9">
+      <path
+         id="path3469-1-21-7"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-3"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-8"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-09"
+       transform="translate(-4.1322854,979.2038)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-2" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-3"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-1"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="1996.8396"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-7"
+       style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031154,1078.9596)"
+       id="g3475-1-5-41">
+      <path
+         id="path3469-1-21-6"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-38"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-5"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-5"
+       transform="translate(-4.1322854,1078.4304)"
+       style="fill:#ff0000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-0" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-1"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-2"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="2101.7039"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-4"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031154,1183.824)"
+       id="g3475-1-5-8">
+      <path
+         id="path3469-1-21-5"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-62"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-52"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-6"
+       transform="translate(-4.1322854,1183.2948)"
+       style="fill:#4daaa7;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#4daaa7;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-9" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4daaa7;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-13"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-3"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#4daaa7;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="2206.5684"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-26"
+       style="fill:#394141;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031154,1288.6884)"
+       id="g3475-1-5-94">
+      <path
+         id="path3469-1-21-4"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-60"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-7"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-4"
+       transform="translate(-4.1322854,1288.1593)"
+       style="fill:#8fd974;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#8fd974;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-3" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8fd974;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-7"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-9"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#8fd974;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="2319.3259"
+       cx="22.647566"
+       id="path2689-4-9-3-9-6-5-02"
+       style="fill:#2f455c;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3.6031154,1401.4459)"
+       id="g3475-1-5-2">
+      <path
+         id="path3469-1-21-69"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text3473-4-5-0"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan3471-3-9-3"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g3364-1-7-9-55"
+       transform="translate(-4.1322854,1400.9167)"
+       style="fill:#1dcdfe;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#1dcdfe;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path855-2-10-0-9-2-1-8" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1dcdfe;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text1478-9-6-3-3-4-7-6-71"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan1476-2-1-5-3-2-3-2-7"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1dcdfe;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       cy="1672.4287"
+       cx="111.01848"
+       id="circle6701"
+       style="fill:#f4b41a;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       r="33.5" />
+    <g
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(84.76776,754.54862)"
+       id="g6709">
+      <path
+         id="path6703"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text6707"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan6705"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <g
+       id="g6717"
+       transform="translate(84.23859,754.01945)"
+       style="fill:#143d58;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#143d58;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path6711" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#143d58;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text6715"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6713"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#143d58;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       style="fill:#21d8c7;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="circle6741"
+       cx="111.01848"
+       cy="1775.8351" />
+    <g
+       id="g6749"
+       transform="translate(84.76776,857.95495)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path6743" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text6747"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6745"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#21006f;fill-opacity:1"
+       transform="translate(84.23859,857.42578)"
+       id="g6757">
+      <path
+         id="path6751"
+         style="fill:#21006f;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text6755"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#21006f;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#21006f;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan6753"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="circle6781"
+       cx="111.01848"
+       cy="1996.8396" />
+    <g
+       id="g6789"
+       transform="translate(84.76776,1078.9596)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path6783" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text6787"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6785"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#004455;fill-opacity:1"
+       transform="translate(84.23859,1078.4304)"
+       id="g6797">
+      <path
+         id="path6791"
+         style="fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text6795"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004455;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#004455;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan6793"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       style="fill:#4daaa7;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="circle6801"
+       cx="111.01848"
+       cy="2101.7039" />
+    <g
+       id="g6809"
+       transform="translate(84.76776,1183.824)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path6803" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text6807"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6805"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#333333;fill-opacity:1"
+       transform="translate(84.23859,1183.2948)"
+       id="g6817">
+      <path
+         id="path6811"
+         style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text6815"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#333333;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan6813"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       style="fill:#8fd974;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="circle6821"
+       cx="111.01848"
+       cy="2206.5684" />
+    <g
+       id="g6829"
+       transform="translate(84.76776,1288.6884)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path6823" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text6827"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6825"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#394141;fill-opacity:1"
+       transform="translate(84.23859,1288.1593)"
+       id="g6837">
+      <path
+         id="path6831"
+         style="fill:#394141;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text6835"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#394141;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#394141;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan6833"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <circle
+       r="33.5"
+       style="fill:#1dcdfe;fill-opacity:1;stroke:none;stroke-width:0.301892;stroke-opacity:1"
+       id="circle6841"
+       cx="111.01848"
+       cy="2319.3259" />
+    <g
+       id="g6849"
+       transform="translate(84.76776,1401.4459)"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         inkscape:connector-curvature="0"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path6843" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         x="107.51092"
+         y="768.36218"
+         id="text6847"
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"><tspan
+           sodipodi:role="line"
+           id="tspan6845"
+           x="107.51092"
+           y="768.36218"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:0.551116">G</tspan></text>
+    </g>
+    <g
+       style="fill:#2f455c;fill-opacity:1"
+       transform="translate(84.23859,1400.9167)"
+       id="g6857">
+      <path
+         id="path6851"
+         style="fill:#2f455c;fill-opacity:1;stroke:none;stroke-width:0.0152888px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 22.376342,893.93297 -2.889357,10.4345 -1.592587,0.0129 -0.725223,-5.71076 -1.763509,8.41344 -0.573115,7.76541 1.078568,0.86713 -2.147867,27.16993 h 2.333707 c 0,0 0.674726,-7.34169 3.211093,-7.37888 2.530872,0.0372 2.121915,7.37888 2.121915,7.37888 h 2.333707 l 1.86261,-27.16993 1.206568,-0.86713 0.573115,-7.76541 -0.521626,-8.41344 -1.567656,5.71076 -1.591199,-0.0129 z"
+         inkscape:connector-curvature="0" />
+      <text
+         transform="matrix(0.81528563,0,-0.09052499,1.226564,0,0)"
+         id="text6855"
+         y="768.36218"
+         x="107.51092"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;line-height:1.25;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2f455c;fill-opacity:1;stroke:none;stroke-width:0.551116"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.7411px;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#2f455c;fill-opacity:1;stroke-width:0.551116"
+           y="768.36218"
+           x="107.51092"
+           id="tspan6853"
+           sodipodi:role="line">G</tspan></text>
+    </g>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.129725px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 309.16272,-5.2916676 1.20802,-230.5368124 -9.69301,-7.35815 v -65.88679 l 9.69301,-71.38999 9.72791,48.45508 13.50737,-0.11094 17.98163,-88.53625 v 352.753032 c -21.49771,0.31585 -22.62663,62.6108204 -22.62663,62.6108204 z"
+       id="path855"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path855"
+       id="use859"
+       transform="matrix(-1,0,0,1,703.1753,-2.4008394e-6)"
+       width="100%"
+       height="100%"
+       style="stroke:none;fill:#000000;fill-opacity:1" />
+    <text
+       id="text3241-4"
+       y="-87.007133"
+       x="7.0402179"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="-87.007133"
+         x="7.0402179"
+         id="tspan3239-3"
+         sodipodi:role="line">Náklon doleva</tspan></text>
+    <text
+       id="text3241-5"
+       y="1563.6365"
+       x="7.0402179"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         rotate="0 0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.2223px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583"
+         y="1563.6365"
+         x="7.0402179"
+         id="tspan3239-4"
+         sodipodi:role="line">Barevné schéma</tspan></text>
+  </g>
+</svg>

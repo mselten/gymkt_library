@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="tower.svg"
+   inkscape:version="1.0beta2 (unknown)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="false"
+     showguides="true"
+     inkscape:snap-grids="true"
+     inkscape:window-maximized="0"
+     inkscape:window-y="24"
+     inkscape:window-x="0"
+     inkscape:window-height="1020"
+     inkscape:window-width="1674"
+     showborder="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     inkscape:cy="-497.33089"
+     inkscape:cx="-3777.6248"
+     inkscape:zoom="0.125"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base">
+    <inkscape:grid
+       empspacing="5"
+       spacingy="6.6145834"
+       spacingx="6.6145834"
+       id="grid857"
+       type="xygrid" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path855"
+       d="M -859.89584,562.23959 -857.07065,23.085594 -879.73959,5.877165 V -148.21158 l 22.66894,-166.95903 22.75057,113.32139 31.58952,-0.25945 42.05347,-207.0588 0,824.97978 c -50.27647,0.73869 -52.91667,146.42728 -52.91667,146.42728 z"
+       style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.303387px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <use
+       style="stroke:none"
+       height="100%"
+       width="100%"
+       transform="matrix(-1,0,0,1,-1521.3542,2e-6)"
+       id="use859"
+       xlink:href="#path855"
+       y="0"
+       x="0" />
+  </g>
+</svg>
