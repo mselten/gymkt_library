@@ -1,7 +1,7 @@
 <?php
 
-require_once "controller/page_viewer.php";
-require_once "controller/request_handler.php";
+require "controller/page_viewer.php";
+require "controller/request_handler.php";
 
 
 $page_viewer = new Page_viewer();

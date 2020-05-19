@@ -1,6 +1,9 @@
 <?php
+require "controller/page_viewer.php";
 
-require_once "global_instances.php";
+
+$page_viewer = new Page_viewer();
+
 
 //This script will be launched after http request from client
 

@@ -6,8 +6,7 @@
 		- dark mode: done?
 
 	- MAREK
-	    - repair that classes require shit fest maybe use static class
-		- create communication between frontend and backend using POST
+	    - create communication with database
 		- validate user input - book search
 
 	- GENERAL

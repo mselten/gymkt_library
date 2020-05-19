@@ -3,16 +3,13 @@
 <div>
     <h2>Vyhledávání knih</h2>
 
-    <form method="post" action="controller/request_handler.php">
+    <form method="post" action="request.php">
         <input type="text" name="search_book">
         <input type="submit" name="search_book_submit" value="Hledat">
     </form>
 
     <?php
-
-    require_once "global_instances.php";
-    echo $request_handler->requested_book;
-
+        echo $this->found_books;
     ?>
 
 
