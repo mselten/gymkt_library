@@ -3,6 +3,7 @@
   <head>
   <title> Design1 </title>
   <link rel = "stylesheet" href ="design1css.css">
+  <link rel = "icon" href = "resources/page_icon.gif ">
    
    <script type = "text/JavaScript">
      var mode = 0;
@@ -10,10 +11,10 @@
      function updateMode() {
           if (mode == 0) {
               document.getElementById("main").className = "light"
-              document.getElementById("logo").innerHTML = '<img src = "resources/light_logo.gif" alt="Homepage Logo" style="height:99px;float:left;">'
+              document.getElementById("logo").innerHTML = '<a href="/" target="_self" id= "homepage_logo"> <img src = "resources/light_logo.gif" alt="Homepage Logo" style="height:125px;float:left;"> </a>'
           } else {
               document.getElementById("main").className = "dark"
-              document.getElementById("logo").innerHTML = '<img src = "resources/dark_logo.gif" alt="Homepage Logo" style="height:99px;float:left;">'
+              document.getElementById("logo").innerHTML = '<a href="/" target="_self" id= "homepage_logo"> <img src = "resources/dark_logo.gif" alt="Homepage Logo" style="height:125px;float:left;"> </a>'
           }
      }
                 
@@ -29,8 +30,6 @@
         date.setYear( date.getYear()+1 );
         document.cookie = "darkModeEnabled="+mode;
         document.cookie = "expires="+ date.toUTCString()+ ";";
-        
-       
      }
      
      function initFunction() {
@@ -48,43 +47,54 @@
    </script>
   
   </head>
-  <body id="main" class="light" style="margin:0px;" onload="initFunction();">
+  <body id="main" style="margin:0px;transition:all 0.5s ease">
+    
     <header>
-    <div style="width:100%;min-height:110px;padding:8px;position:fixed;top:0px;left:0px;"> 
+    <div style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;"> 
         <!-- <a href="/" target=_self>  
         later
         -->
-        <div id = "logo">
-          <img src = "resources/light_logo.gif" alt="Homepage Logo" style="height:99px;float:left;">
+        <div id= "logo">
+          <a href="/" target="_self" id= "homepage_logo"> <img src = "resources/light_logo.gif" alt="Homepage Logo" style="height:125px;float:left;"> </a>
         </div>
         
-        <h1 style="padding-left:8px; float:left;"> Best heading ever </h1>
+         <script type ="text/JavaScript">
+           initFunction();
+        </script>
         
-        <div style="position:absolute; right:20px; bottom:0px; margin:5px;">
+        <label for="homepage_logo" style="cursor:pointer">
+          <h1 style="padding-left:8px; float:left; margin-top:40px "> Best heading ever </h1>
+        </label>
+        
+        <div style="position:absolute; right:100px; bottom:0px; margin:5px;">
           <button style="opacity:0" id="button_darkMode" onClick="switchMode();" > </button>
-          <label id="label_darkMode_button" for="button_darkMode" style="cursor:pointer" > </label>
-          <label id="label_darkMode_text" for="button_darkMode" style="position:absolute; left:-110px"> Dark mode: </label>
+          <label id="label_darkMode_button" for="button_darkMode" style="position:absolute; bottom:25px; cursor:pointer" > </label>
+          <label id="label_darkMode_text" for="button_darkMode" style="position:absolute; bottom: 6px; left:-110px; cursor:pointer"> Dark mode: </label>
         </div>                                                                       
         
     </div>
     </header>
     
      <div style="padding:8px; padding-top:130px; min-height:770px"> 
-       <div id="search_window" style="margin:auto; margin-top:150px; padding:20px; width:450px;">
+       <!--  CENTRAL SEARCH WINDOW ----------------------------------------------------------------------------- -->
+       <div id="search_window" style="margin:auto; margin-top:150px; padding:34px; min-width:500px; width:50%">
+          
           <form id = "search_form">    <!-- add action and method -->
             <label for="search_bar" style="cursor:text"> Best search bar ever... such search... much wow </label> <br />   
-            <input id="search_bar" name="search_q" placeholder="Type plz" type="text"  style="width:80%;border-style:dashed;padding:5px">
-            <button id="search_button" type="submit" style="float:right;  width:15%; height: 29px ; padding:0px; margin:0px; border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
+            
+            <input id="search_bar" name="search_q" placeholder="Type plz" type="text"  style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">  
+            <button id="search_button" type="submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
             <!-- to button add formmethod POST -->
             <svg id="search_icon" style="height:20px; width:20px;">
                 <line x1="8" y1="8" x2="20" y2="20" stroke="#7d7d7d" stroke-width="2" />
                 <circle cx="8" cy="8" r="6" stroke="#7d7d7d" stroke-width="2" fill="#eee" />
             </svg>
             </button>
+            
           </form>
         </div>
      </div>
-     
+   
   <footer style="background-color:#202020;height:100px;padding:8px;">
        <div style="width:100%;background-color:#202020;height:100%;">
          <p style="color:#fff;float:right"> Extra info? </p>
