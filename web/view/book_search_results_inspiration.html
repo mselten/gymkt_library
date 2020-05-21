@@ -8,11 +8,19 @@
         <input type="submit" name="search_book_submit" value="Hledat">
     </form>
 
-    <?php
-        //echo $this->found_books;
-        var_dump($this->found_books);
-    ?>
 
+    <table>
+        <tr>
+            <th>jmeno</th>
+            <th>evid. number</th>
+        </tr>
+        <?php foreach ($books as $book) { ?>
+        <tr>
+            <td><?= $book["name"] ?></td>
+            <td><?= $book["rec_number"] ?></td>
+        </tr>
+        <?php } ?>
+    </table>
 
 </div>
 

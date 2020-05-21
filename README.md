@@ -3,22 +3,32 @@
 ## TODO:
 ```
 - KUBA
-	- check logo, font, color?
-	- improve layout
+    	- check logo, font, color?
+    	- add meta tags to basic_layout.html
+    	- add "cool loking html" to view template
+        - make the result look good (put together first name and surname)
 
 - MAREK
-	- create communication with database and the actual database
-	- validate user input - book search
+    	- validate user input - book search - sql injection
+        - search in database without accent characters (maybe make search table withought accent???????)
+        - make search case insensitive, diacritic insensitive
+
 
 - GENERAL
-	- finish alpha version
-	- change font??
-	- add meta files
-	- add the robot.txt and other similar files
-	- web page icon
-	- improve for smartphone use (lanscape mode work, but not portrait mode)
-	- make url nicer user wont know which folder is he in
-	- check security (.htaccess, etc...)
+    	- check security (.htaccess, etc...)
+        - check for sql injection
+        - finish alpha version
+        - change font??
+        - web page icon
+        - add meta files
+        - add the robot.txt and other similar files
+        - search suggestions
+        - improve for smartphone use (lanscape mode work, but not portrait mode)
+        - make url nicer user wont know which folder is he in
+        - index the database????
+        - logo square?, remove shadow?
+        - add SAVEPOINT to database 
+        - spaces between name and surname always if not after dash or dot
 ```
 
 ## Architecture
@@ -54,3 +64,16 @@
 	- test php
 		- create php test script "info.php" in /var/www/html
 		- try to connect to localhost/info.php
+4. Add another user to the mysql server with reduced privilages
+
+
+## How search should work
+1. call function to parse search request
+2. check for sql injection
+3. replace special characters for spaces
+4. parse the request to words
+5. deal with case sensitivity and diacritic sensitivity
+6. make search for each word
+7. put together the search result for each word and find the most words match on each book
+8. make ranking of results (prioritize exact mach)
+     
