@@ -3,8 +3,10 @@
 ## TODO:
 ```
 - KUBA
+        - repair footer
     	- add meta tags to basic_layout.html
         - add font and colors layout
+        - add new look to all layouts
         - make the result look good (put together first name and surname)
 
 - MAREK
