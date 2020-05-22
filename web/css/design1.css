@@ -9,6 +9,8 @@
   float:left;
 }
 
+/* LOGOs --------------------------------------------------------------------------------------- */
+
 body.light .logo {
    content: url("../resources/light_logo.gif")
 }
@@ -17,7 +19,7 @@ body.dark .logo {
    content: url("../resources/dark_logo.gif")
 }
 
-/* DARK MODE BUTTON --------------------------------------------------------------------------0 */
+/* DARK MODE BUTTON ---------------------------------------------------------------------------- */
 
 body.light #label_darkMode_buttonKnob {
   
@@ -63,6 +65,8 @@ body.light {
    background-color: #eee;
 }
 
+
+
 body.light header {
    background-color:#fff;
    box-shadow:0px 1px 1px #000;
@@ -74,9 +78,7 @@ body.light #heading, body.light #heading:visited, body.light #heading:hover, bod
    font-weight: bold;
 }
 
-body.light footer {
-   box-shadow:0px -1px 1px #717171;
-}
+
 
 body.light #search_window {
    background-color:#fff;
@@ -97,6 +99,13 @@ body.light #search_button {
 body.light #search_icon circle {
    fill: #eee;
 }
+
+
+
+body.light footer {
+   box-shadow:0px -1px 1px #717171;
+}
+
 
 /* DARK MODE --------------------------------------------------------------------------------- */
 
