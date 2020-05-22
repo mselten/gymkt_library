@@ -3,15 +3,15 @@
 ## TODO:
 ```
 - KUBA
-    	- check logo, font, color?
     	- add meta tags to basic_layout.html
-    	- add "cool loking html" to view template
+        - add font and colors layout
         - make the result look good (put together first name and surname)
 
 - MAREK
     	- validate user input - book search - sql injection
         - search in database without accent characters (maybe make search table withought accent???????)
         - make search case insensitive, diacritic insensitive
+
 
 
 - GENERAL
