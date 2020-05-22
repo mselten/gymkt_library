@@ -1,0 +1,145 @@
+/* BASIC GLOBAL STUFF ------------------------------------------------------------------------ */
+
+*{
+   font-family: helvetica;
+}
+
+.logo {
+  height:125px;
+  float:left;
+}
+
+body.light .logo {
+   content: url("resources/light_logo.gif")
+}
+
+body.dark .logo {
+   content: url("resources/dark_logo.gif")
+}
+
+/* DARK MODE BUTTON --------------------------------------------------------------------------0 */
+
+body.light #label_darkMode_buttonKnob {
+  
+  background-color: #0d1113;
+  left:0px;
+
+  transition: all .1s ease;
+}
+
+body.dark #label_darkMode_buttonKnob {
+  
+  background-color: #0d1113;
+  left:19px;
+
+  transition: all .1s ease;
+}
+
+body.light #label_darkMode_buttonBc {
+  
+  background-color: #4b4b80;
+  
+  transition: all .5s ease;
+}
+
+body.dark #label_darkMode_buttonBc {
+  
+  background-color: #3580c7;
+  
+  transition: all .5s ease;
+}
+
+body.light #label_darkMode_text {
+  color: black;
+}
+
+body.dark #label_darkMode_text {
+  color: white;
+}
+
+/* LIGHT MODE -------------------------------------------------------------------------------- */
+
+body.light {
+   background-color: #eee;
+}
+
+body.light header {
+   background-color:#fff;
+   box-shadow:0px 1px 1px #000;
+}
+                                 
+body.light #heading, body.light #heading:visited, body.light #heading:hover, body.light #heading:active  {
+   color: #4a4a4a;
+   font-size: 2em;
+   font-weight: bold;
+}
+
+body.light footer {
+   box-shadow:0px -1px 1px #717171;
+}
+
+body.light #search_window {
+   background-color:#fff;
+   color: #000;
+   box-shadow:1px 1px 1px #000; 
+}
+
+body.light #search_bar {
+   background-color: #fff;
+   color: #000;
+   border-color: #7d7d7d; 
+}
+
+body.light #search_button {
+   background-color: #eee;
+}
+
+body.light #search_icon circle {
+   fill: #eee;
+}
+
+/* DARK MODE --------------------------------------------------------------------------------- */
+
+body.dark {
+   background-color: #0d1113;
+}
+
+
+body.dark header {
+   background-color: #252525;
+   box-shadow:0px 1px 1px #000;
+}
+
+body.dark #heading, body.dark #heading:visited, body.dark #heading:hover, body.dark #heading:active {
+   color: #fff;
+   font-size: 2em;
+   font-weight: bold;
+}
+
+
+
+body.dark #search_window {
+   background-color: #252525;
+   color: #fff; 
+   box-shadow:1px 1px 1px #000;
+}
+
+body.dark #search_bar {
+   background-color: #0d1113;
+   color: #dcdcdc; 
+   border-color: #7d7d7d;
+}
+
+body.dark #search_button {
+   background-color: #464646;
+}
+
+body.dark #search_icon circle {
+   fill: #464646;
+}
+
+
+
+body.dark footer {
+   box-shadow:0px -1px 1px #000;
+} 

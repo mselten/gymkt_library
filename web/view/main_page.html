@@ -1,5 +1,25 @@
+<!-- LOADES LIGHT / DARK MODE : IMPORTANT -->
+<script type ="text/JavaScript">
+           initFunction();
+</script>
 
-<header><h1>Knihovna Gymnázia Jaroslava Vrchlického</h1></header>
+<header style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;">
+   
+        <a href="" target="_self" id= "homepage_logo"> <img class="logo" alt="Homepage Logo"> </a>
+        <a id="heading" href="" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-top:40px"> Best Heading ever mk 2 </a>
+       
+        <div style="position:absolute; right:150px; bottom:0px; margin:5px;  ">
+            <button style="opacity:0;float:left" id="button_darkMode" onClick="switchMode();" > </button>
+            <label id="label_darkMode_text" style="float:left; position:relative; cursor:pointer" for="button_darkMode" > 
+               Dark mode:
+            </label>
+            <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
+              <span id="label_darkMode_buttonBc" style="position:absolute; top:2px; left:4px; width:30px; height:7px; display:block; border: solid 2px white;"></span>
+              <span id="label_darkMode_buttonKnob" style="position:absolute; top:-3px; width:19px; height:18px; display:block; border: solid 2px white; "></span>
+            </label>
+        </div>
+        
+    </header>
 
 <div>
     <h2>Vyhledávání knih</h2>

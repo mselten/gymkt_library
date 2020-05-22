@@ -19,24 +19,34 @@ body.dark .logo {
 
 /* DARK MODE BUTTON --------------------------------------------------------------------------0 */
 
-#label_darkMode_buttonKnob {
+body.light #label_darkMode_buttonKnob {
   
   background-color: #0d1113;
-  right: 15px;
-  position:absolute;
+  left:0px;
 
-  transition: right .1s ease;
+  transition: all .1s ease;
 }
 
-#label_darkMode_button::before {
-  content:"";
+body.dark #label_darkMode_buttonKnob {
+  
+  background-color: #0d1113;
+  left:19px;
+
+  transition: all .1s ease;
+}
+
+body.light #label_darkMode_buttonBc {
+  
   background-color: #4b4b80;
   
-  transition: background-color 1s ease;
+  transition: all .5s ease;
 }
 
-body.dark #label_darkMode_button::before {
+body.dark #label_darkMode_buttonBc {
+  
   background-color: #3580c7;
+  
+  transition: all .5s ease;
 }
 
 body.light #label_darkMode_text {

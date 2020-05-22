@@ -5,10 +5,51 @@
     <meta charset="UTF-8">
     <title><?= $this->title ?></title>
 
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/design1.css">
+    <link rel = "icon" href = "resources/page_icon.gif ">
+    
+    <script type = "text/JavaScript">
+     var mode = 0;
+     
+     function updateMode() {
+          if (mode == 0) {
+              document.getElementById("main").className = "light"
+          } else {
+              document.getElementById("main").className = "dark"
+          }
+     }
+                
+     function switchMode() {
+        if (mode == 0) {
+            mode = 1;
+        } else {
+            mode = 0;
+        }
+        updateMode();
+        
+        var date = new Date();
+        date.setYear( date.getYear()+1 );
+        document.cookie = "darkModeEnabled="+mode;
+        document.cookie = "expires="+ date.toUTCString()+ ";";
+     }
+     
+     function initFunction() {
+       var cookies = document.cookie;
+       cookiearray = cookies.split(';');
+               
+       for(var i=0; i<cookiearray.length; i++) {
+         if (cookiearray[i].split('=')[0] == "darkModeEnabled") {
+            mode = cookiearray[i].split('=')[1];
+         }
+       }     
+       updateMode();
+     }
+     
+   </script>
+    
 </head>
 
-<body>
+<body id="main" style="margin:0px; transition:all 0.5s ease">
     <?php require "$this->template_type"; // this method will print the template content ?>
 </body>
 
