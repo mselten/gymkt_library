@@ -12,11 +12,11 @@
 /* LOGOs --------------------------------------------------------------------------------------- */
 
 body.light .logo {
-   content: url("../resources/logo_miniature.svg")
+   content: url("../resources/logo_miniature.svg");
 }
 
 body.dark .logo {
-   content: url("../resources/logo_miniature.svg")
+   content: url("../resources/logo_miniature.svg");
 }
 
 /* DARK MODE BUTTON ---------------------------------------------------------------------------- */
