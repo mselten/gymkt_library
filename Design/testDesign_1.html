@@ -11,10 +11,8 @@
      function updateMode() {
           if (mode == 0) {
               document.getElementById("main").className = "light"
-              document.getElementById("logo").innerHTML = '<a href="/" target="_self" id= "homepage_logo"> <img src = "resources/light_logo.gif" alt="Homepage Logo" style="height:125px;float:left;"> </a>'
           } else {
               document.getElementById("main").className = "dark"
-              document.getElementById("logo").innerHTML = '<a href="/" target="_self" id= "homepage_logo"> <img src = "resources/dark_logo.gif" alt="Homepage Logo" style="height:125px;float:left;"> </a>'
           }
      }
                 
@@ -49,30 +47,31 @@
   </head>
   <body id="main" style="margin:0px;transition:all 0.5s ease">
     
-    <header>
-    <div style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;"> 
-        <!-- <a href="/" target=_self>  
-        later
-        -->
-        <div id= "logo">
-          <a href="/" target="_self" id= "homepage_logo"> <img src = "resources/light_logo.gif" alt="Homepage Logo" style="height:125px;float:left;"> </a>
-        </div>
-        
-         <script type ="text/JavaScript">
+    <script type ="text/JavaScript">
            initFunction();
-        </script>
-        
-        <label for="homepage_logo" style="cursor:pointer">
-          <h1 style="padding-left:8px; float:left; margin-top:40px "> Best heading ever </h1>
-        </label>
+    </script>
+    
+    <header style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;">
+   
+        <a href="" target="_self" id= "homepage_logo"> <img class="logo" alt="Homepage Logo"> </a>
+        <a id="heading" href="" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-top:40px"> Best Heading ever mk 2 </a>
         
         <div style="position:absolute; right:100px; bottom:0px; margin:5px;">
           <button style="opacity:0" id="button_darkMode" onClick="switchMode();" > </button>
           <label id="label_darkMode_button" for="button_darkMode" style="position:absolute; bottom:25px; cursor:pointer" > </label>
           <label id="label_darkMode_text" for="button_darkMode" style="position:absolute; bottom: 6px; left:-110px; cursor:pointer"> Dark mode: </label>
-        </div>                                                                       
+        </div>    
         
-    </div>
+        <div style="position:absolute; right:100px; bottom:50px; margin:5px; width:100px ">
+            <label id="label_darkMode_text" style="float:left; position:relative" for="button_darkMode" > 
+               Dark mode:
+            </label>
+            <label style="float:left; position:relative; margin-left:5px;" for="button_darkMode">
+              <span id="label_darkMode_buttonKnob" style="position:absolute; left:4px; top:2px; background-color:green; width:30px; height:7px; display:block; border: solid 2px white;"></span>
+              <span id="label_darkMode_buttonBc" style="position:absolute; left:0px; top:-3px; background-color:black; width:19px; height:18px; display:block; border: solid 2px white; "></span>
+            </label>
+        </div>
+        
     </header>
     
      <div style="padding:8px; padding-top:130px; min-height:770px"> 

@@ -4,44 +4,35 @@
    font-family: helvetica;
 }
 
+.logo {
+  height:125px;
+  float:left;
+}
+
+body.light .logo {
+   content: url("resources/light_logo.gif")
+}
+
+body.dark .logo {
+   content: url("resources/dark_logo.gif")
+}
+
 /* DARK MODE BUTTON --------------------------------------------------------------------------0 */
 
-#label_darkMode_button::after {
-  content:"";
-  background-color: #0d1113;
-  border-color:#fff;
-  border-width:2px;
-  border-style:solid;
+#label_darkMode_buttonKnob {
   
-  top: 0px;
+  background-color: #0d1113;
   right: 15px;
-  bottom: 0px;
   position:absolute;
-  width: 20px;
-  height: 18px;
-  display:block;
+
   transition: right .1s ease;
 }
 
 #label_darkMode_button::before {
   content:"";
   background-color: #4b4b80;
-  border-color:#fff;
-  border-width:2px;
-  border-style:solid;
   
-  top: 5px;
-  right: 0px;
-  bottom: 0px;
-  position:absolute;
-  width: 30px;
-  height: 7px; 
-  display:block;
   transition: background-color 1s ease;
-}
-
-body.dark #label_darkMode_button::after {
-  right: -5px;
 }
 
 body.dark #label_darkMode_button::before {
@@ -62,13 +53,15 @@ body.light {
    background-color: #eee;
 }
 
-body.light > header > div {
+body.light header {
    background-color:#fff;
    box-shadow:0px 1px 1px #000;
 }
-
-body.light h1 {
-   color: #4a4a4a
+                                 
+body.light #heading, body.light #heading:visited, body.light #heading:hover, body.light #heading:active  {
+   color: #4a4a4a;
+   font-size: 2em;
+   font-weight: bold;
 }
 
 body.light footer {
@@ -101,18 +94,19 @@ body.dark {
    background-color: #0d1113;
 }
 
-body.dark > header > div {
+
+body.dark header {
    background-color: #252525;
    box-shadow:0px 1px 1px #000;
 }
 
-body.dark h1 {
+body.dark #heading, body.dark #heading:visited, body.dark #heading:hover, body.dark #heading:active {
    color: #fff;
+   font-size: 2em;
+   font-weight: bold;
 }
 
-body.dark footer {
-   box-shadow:0px -1px 1px #000;
-}
+
 
 body.dark #search_window {
    background-color: #252525;
@@ -132,4 +126,10 @@ body.dark #search_button {
 
 body.dark #search_icon circle {
    fill: #464646;
+}
+
+
+
+body.dark footer {
+   box-shadow:0px -1px 1px #000;
 } 
