@@ -10,11 +10,11 @@
 }
 
 body.light .logo {
-   content: url("resources/light_logo.gif")
+   content: url("../resources/light_logo.gif")
 }
 
 body.dark .logo {
-   content: url("resources/dark_logo.gif")
+   content: url("../resources/dark_logo.gif")
 }
 
 /* DARK MODE BUTTON --------------------------------------------------------------------------0 */
