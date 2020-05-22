@@ -1,23 +1,61 @@
-<header><h1>Knihovna Gymnázia Jaroslava Vrchlického</h1></header>
+<!-- LOADES LIGHT / DARK MODE : IMPORTANT -->
+<script type ="text/JavaScript">
+           initFunction();
+</script>
 
-<div>
-    <h2>Vyhledávání knih</h2>
+<!-- HEADER - CONTAINS: LOGO + HEADING + MODE BUTTON-->
+<header style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;">
+   
+        <a href="" target="_self" id= "homepage_logo"> <img class="logo" alt="Homepage Logo"> </a>
+        <a id="heading" href="" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-top:40px"> Best Heading ever mk 2 </a>
+       
+        <div style="position:absolute; right:150px; bottom:0px; margin:5px;  ">
+            <button style="opacity:0;float:left" id="button_darkMode" onClick="switchMode();" > </button>
+            <label id="label_darkMode_text" style="float:left; position:relative; cursor:pointer" for="button_darkMode" > 
+               Dark mode:
+            </label>
+            <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
+              <span id="label_darkMode_buttonBc" style="position:absolute; top:2px; left:4px; width:30px; height:7px; display:block; border: solid 2px white;"></span>
+              <span id="label_darkMode_buttonKnob" style="position:absolute; top:-3px; width:19px; height:18px; display:block; border: solid 2px white; "></span>
+            </label>
+        </div>
+        
+</header>
 
-    <form method="post" action="request.php">
-        <input type="text" name="search_book">
-        <input type="submit" name="search_book_submit" value="Hledat">
-    </form>
+<!-- MAIN BODY DIV - CONTAINS: ALL CONTENT -->
+<div style="padding:8px; padding-top:130px; min-height:770px">
+  
+  <!-- SEARCH WINDOW DIV - CONTAINS: SEARCH BAR-->
+  <div id="search_window" style="margin:auto; margin-top:150px; padding:34px; min-width:500px; width:50%">
+      
+      <form id = "search_form" method="post" action="request.php">
+        
+        <label for="search_bar" style="cursor:text"> Best search bar ever... such search... much wow </label> <br />
+        
+        <input id="search_bar" type="text" name="search_book" placeholder="Type plz" style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
+        <button id="search_button" type="submit" name="search_book_submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
+          <!-- to button add formmethod POST  ? -->
+            <svg id="search_icon" style="height:20px; width:20px;">
+                <line x1="8" y1="8" x2="20" y2="20" stroke="#7d7d7d" stroke-width="2" />
+                <circle cx="8" cy="8" r="6" stroke="#7d7d7d" stroke-width="2" fill="#eee" />
+            </svg>
+        </button>
+        
+      </form>
+      
+  </div>
 
-    <?php
-        //echo $this->found_books;
-        var_dump($this->found_books);
-    ?>
-
+  <!--  RESULTS - CONTAINS: you guessed it! RESULTS -->
+  <?php
+       //echo $this->found_books;
+       var_dump($this->found_books);
+  ?>
 
 </div>
 
-
-<br>
-
-
-<footer>Here are the contacts</footer>
+<!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
+<footer style="background-color:#202020;height:100px;padding:8px;">
+       <div style="width:100%;background-color:#202020;height:100%;">
+         <p style="color:#fff;float:right"> Extra info? </p>
+       </div>
+</footer>
