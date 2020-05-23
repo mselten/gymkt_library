@@ -9,6 +9,37 @@
   float:left;
 }
 
+/* --------------------------------------------------------------------------------------------- */
+
+body.dark.bc_color0 {
+  background-color: #0d1113;
+}
+
+body.light.bc_color0 {
+  background-color: #eee;
+}
+
+
+
+body.light .bc_color1 {
+  background-color: #fff;
+}
+
+body.dark .bc_color1 {
+  background-color: #252525;
+}
+
+
+
+body.light .bc_color4 {
+  background-color:#202020;
+}
+
+body.dark .bc_color4 {
+  background-color:#202020;
+}
+
+
 /* LOGOs --------------------------------------------------------------------------------------- */
 
 body.light .logo {
@@ -22,33 +53,21 @@ body.dark .logo {
 /* DARK MODE BUTTON ---------------------------------------------------------------------------- */
 
 body.light #label_darkMode_buttonKnob {
-  
   background-color: #0d1113;
   left:0px;
-
-  transition: all .1s ease;
 }
 
 body.dark #label_darkMode_buttonKnob {
-  
   background-color: #0d1113;
   left:19px;
-
-  transition: all .1s ease;
 }
 
 body.light #label_darkMode_buttonBc {
-  
   background-color: #4b4b80;
-  
-  transition: all .5s ease;
 }
 
 body.dark #label_darkMode_buttonBc {
-  
   background-color: #3580c7;
-  
-  transition: all .5s ease;
 }
 
 body.light #label_darkMode_text {
@@ -61,16 +80,6 @@ body.dark #label_darkMode_text {
 
 /* LIGHT MODE -------------------------------------------------------------------------------- */
 
-body.light {
-   background-color: #eee;
-}
-
-
-
-body.light header {
-   background-color:#fff;
-   box-shadow:0px 1px 1px #000;
-}
                                  
 body.light #heading, body.light #heading:visited, body.light #heading:hover, body.light #heading:active  {
    color: #4a4a4a;
@@ -81,7 +90,6 @@ body.light #heading, body.light #heading:visited, body.light #heading:hover, bod
 
 
 body.light #search_window {
-   background-color:#fff;
    color: #000;
    box-shadow:1px 1px 1px #000; 
 }
@@ -109,15 +117,6 @@ body.light footer {
 
 /* DARK MODE --------------------------------------------------------------------------------- */
 
-body.dark {
-   background-color: #0d1113;
-}
-
-
-body.dark header {
-   background-color: #252525;
-   box-shadow:0px 1px 1px #000;
-}
 
 body.dark #heading, body.dark #heading:visited, body.dark #heading:hover, body.dark #heading:active {
    color: #fff;
@@ -128,7 +127,6 @@ body.dark #heading, body.dark #heading:visited, body.dark #heading:hover, body.d
 
 
 body.dark #search_window {
-   background-color: #252525;
    color: #fff; 
    box-shadow:1px 1px 1px #000;
 }
