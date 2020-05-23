@@ -4,6 +4,7 @@
 <head>
     <meta http-equiv = "Content-Type" content = "text/html; charset = UTF-8" />
     <title><?= $this->title ?></title>
+    <!-- maybe we don't wanna use 'special chars like ��������' ? -->
     <meta name = "keywords" content = "Klatovy, Gymn�zium, Knihovna, Vyhled�va�, Datab�ze" />
     <meta name = "description" content = "Knihovna Gymn�zia Jaroslava Vrchlick�ho v Klatovech" />
     <meta name = "author" content = "Jakub Jankovec, Marek Seltenhofer" />
@@ -11,8 +12,7 @@
     <!-- DO WE WANT NOINDEX / NOFOLLOW ? -->
     <meta name="language" content="cs">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- LATER MAYBE ADD THIS <link rel="canonical" href="http://example.com/" /> -->
-    
+    <!-- LATER MAYBE ADD THIS <link rel="canonical" href="http://example.com/" /> -->                                           
 
     <link rel="stylesheet" href="css/design1.css">
     <link rel = "icon" href = "resources/page_icon.gif ">
@@ -22,9 +22,11 @@
      
      function updateMode() {
           if (mode == 0) {
-              document.getElementById("main").className = "light"
+              document.getElementById("main").classList.remove("dark");
+              document.getElementById("main").classList.add("light");
           } else {
-              document.getElementById("main").className = "dark"
+              document.getElementById("main").classList.remove("light");
+              document.getElementById("main").classList.add("dark");
           }
      }
                 
@@ -53,11 +55,16 @@
        updateMode();
      }
      
+     function updateFooter() {
+        document.getElementById("main_content").style.minHeight = window.innerHeight+"px";
+        document.getElementById("test_name").innerHTML = window.innerHeight+"px";
+     }
+     
    </script>
     
 </head>
 
-<body id="main" style="margin:0px; transition:all 0.5s ease">
+<body class="bc_color0" id="main" style="margin:0px; transition:all 0.5s ease" onresize="updateFooter();" onload="updateFooter();" >
     <?php require "view/" . "$this->template_type" . ".phtml"; // this method will print the template content ?>
 </body>
 

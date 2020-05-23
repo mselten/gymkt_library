@@ -4,7 +4,7 @@
 </script>
 
 <!-- HEADER - CONTAINS: LOGO + HEADING + MODE BUTTON-->
-<header style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;">
+<header class="bc_color1" style="width:100%;min-height:110px;padding:30px;position:fixed;top:0px;left:0px;box-shadow:0px 1px 1px #000;">
    
         <a href="index.php" target="_self" id= "homepage_logo"> <img class="logo" alt="Homepage Logo"> </a>
         <a id="heading" href="index.php" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-top:50px"> Best Heading ever mk 2 </a>
@@ -15,18 +15,18 @@
                Dark mode:
             </label>
             <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
-              <span id="label_darkMode_buttonBc" style="position:absolute; top:2px; left:4px; width:30px; height:7px; display:block; border: solid 2px white;"></span>
-              <span id="label_darkMode_buttonKnob" style="position:absolute; top:-3px; width:19px; height:18px; display:block; border: solid 2px white; "></span>
+              <span id="label_darkMode_buttonBc" style="position:absolute; top:2px; left:4px; width:30px; height:7px; display:block; border: solid 2px white; transition: all .5s ease;"></span>
+              <span id="label_darkMode_buttonKnob" style="position:absolute; top:-3px; width:19px; height:18px; display:block; border: solid 2px white; transition: all .1s ease;"></span>
             </label>
         </div>
         
 </header>
 
 <!-- MAIN BODY DIV - CONTAINS: ALL CONTENT -->
-<div style="padding:8px; padding-top:130px; min-height:770px">
+<div id="main_content" style="padding:8px; padding-top:130px;min-height:500px">
   
   <!-- SEARCH WINDOW DIV - CONTAINS: SEARCH BAR-->
-  <div id="search_window" style="margin:auto; margin-top:150px; padding:34px; min-width:500px; width:50%">
+  <div class="bc_color1" id="search_window" style="margin:auto; margin-top:150px; padding:34px; min-width:500px; width:50%">
       
       <form id = "search_form" method="post" action="request.php">
         
@@ -89,10 +89,8 @@
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
-<footer style="background-color:#202020;height:100px;padding:8px;">
-       <div style="width:100%;background-color:#202020;height:100%;">
-         <p style="color:#fff;float:right"> Extra info? </p>
-       </div>
+<footer class="bc_color4" style="width:100%;height:100px;min-width:600px">
+  <p style="color:#fff;float:right;padding:8px"> Extra info? </p>      
 </footer>
 
 
