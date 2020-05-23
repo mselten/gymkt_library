@@ -46,7 +46,46 @@
   </div>
   
   <!--  RESULTS (TBA) -->
-  
+    <div id="search_results">
+        <?php
+        if (!empty($this->found_books) && is_array($this->found_books)) { ?>
+            <table cellpadding = "5" cellspacing = "5" >
+                <tr>
+                    <th>Název</th>
+                    <th>Jméno Autora</th>
+                    <th>Sekce</th>
+                    <th>Umístění</th>
+                    <th>Inv. číslo</th>
+                    <th>Rok</th>
+                    <th>Cena</th>
+                </tr>
+                <?php foreach ($this->found_books as $book) {
+	                $make_space = true;
+	                $last_letter = substr($book["author_first_name"], -1);
+                    if ($last_letter == "-")
+	                    $make_space = false; ?>
+
+                    <tr>
+                        <td><?= $book["name"] . (empty($book["name_2"]) ? "" : " | " . $book["name_2"]) ?></td>
+                        <td><?= $book["author_first_name"] . ($make_space ? " " : "") . $book["author_surname"]?></td>
+                        <td><?= $book["section"] ?></td>
+                        <td><?= $book["location"] ?></td>
+                        <td><?= $book["record_number"] ?></td>
+                        <td><?= $book["year"] ?></td>
+                        <td><?= $book["price"] ?></td>
+                    </tr>
+                <?php } ?>
+            </table>
+
+        <?php } elseif (empty($this->found_books)) { ?>
+            <p>Žádné výsledky</p> <!-- TODO highlight this text -->
+
+        <?php } elseif ($this->found_books == "empty_entry") { ?>
+            <p>Zadejte název knihy</p> <!-- TODO highlight this text -->
+
+        <?php } ?>
+    </div>
+
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->

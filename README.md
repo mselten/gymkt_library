@@ -4,10 +4,10 @@
 ```
 - KUBA
         - repair footer
-    	- add meta tags to basic_layout.html
         - add font and colors layout
         - add new look to all layouts
-        - make the result look good (put together first name and surname)
+        - make the result look good 
+        - move resources to css
 
 - MAREK
     	- validate user input - book search - sql injection
@@ -21,8 +21,7 @@
         - check for sql injection
         - finish alpha version
         - change font??
-        - web page icon
-        - add meta files
+        - web page icon (done but change colors according to css)
         - add the robot.txt and other similar files
         - search suggestions
         - improve for smartphone use (lanscape mode work, but not portrait mode)
