@@ -1,64 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis');
+
 /* BASIC GLOBAL STUFF ------------------------------------------------------------------------ */
 
 *{
-   font-family: helvetica;
+   font-family: 'Dosis', 'Helvetica';
+   font-size: 19px;
 }
 
 .logo {
   height:125px;
   float:left;
+  content: url("resources/logo_miniature.svg");
 }
 
-/* --------------------------------------------------------------------------------------------- */
+#heading, #heading:visited, #heading:hover, #heading:active {
+  font-size: 2em;
+  font-weight: bold;
+}
 
-body.dark.bc_color0 {
+#label_darkMode_buttonKnob {
   background-color: #0d1113;
 }
 
-body.light.bc_color0 {
+#search_window {
+   box-shadow:1px 1px 1px #000; 
+}
+
+#search_bar {
+   border-color: #7d7d7d; 
+}
+
+
+/* BACKGROUND COLORS -------------------------------------------------------------------------- */
+
+/* new colors- light: #17252A #2B7A78 #3AAFA9 #DEF2F1 #DEF2F1 #FEFFFF */
+/* new colors- dark:  #0B0C10 #1F2833 #C5C6C7 #66FCF1 #45A29E  */
+
+body.light.bg_color0 {
   background-color: #eee;
 }
 
+body.dark.bg_color0 {
+  background-color: #0d1113;
+}
 
 
-body.light .bc_color1 {
+
+body.light .bg_color1 {
   background-color: #fff;
 }
 
-body.dark .bc_color1 {
+body.dark .bg_color1 {
   background-color: #252525;
 }
 
 
 
-body.light .bc_color4 {
+body.light .bg_color2 {
+  background-color: #fff;
+}
+
+body.dark .bg_color2 {
+  background-color: #0d1113;
+}
+
+
+
+body.light .bg_color3 {
+  background-color: #eee;
+}
+
+body.dark .bg_color3 {
+  background-color: #464646;
+}
+
+
+
+body.light .bg_color4 {
   background-color:#202020;
 }
 
-body.dark .bc_color4 {
+body.dark .bg_color4 {
   background-color:#202020;
 }
 
 
-/* LOGOs --------------------------------------------------------------------------------------- */
+/* COLORS -------------------------------------------------------------------------------------- */
 
-body.light .logo {
-   content: url("../resources/logo_miniature.svg");
+
+body.light .color0 {
+  color: #4a4a4a;
 }
 
-body.dark .logo {
-   content: url("../resources/logo_miniature.svg");
+body.dark .color0 {
+  color: #fff;
 }
+
+
+
+body.light .color1 {
+  color: #000;
+}
+
+body.dark .color1 {
+  color: #fff;
+}
+
 
 /* DARK MODE BUTTON ---------------------------------------------------------------------------- */
 
+
 body.light #label_darkMode_buttonKnob {
-  background-color: #0d1113;
   left:0px;
 }
 
 body.dark #label_darkMode_buttonKnob {
-  background-color: #0d1113;
   left:19px;
 }
 
@@ -70,44 +126,8 @@ body.dark #label_darkMode_buttonBc {
   background-color: #3580c7;
 }
 
-body.light #label_darkMode_text {
-  color: black;
-}
-
-body.dark #label_darkMode_text {
-  color: white;
-}
 
 /* LIGHT MODE -------------------------------------------------------------------------------- */
-
-                                 
-body.light #heading, body.light #heading:visited, body.light #heading:hover, body.light #heading:active  {
-   color: #4a4a4a;
-   font-size: 2em;
-   font-weight: bold;
-}
-
-
-
-body.light #search_window {
-   color: #000;
-   box-shadow:1px 1px 1px #000; 
-}
-
-body.light #search_bar {
-   background-color: #fff;
-   color: #000;
-   border-color: #7d7d7d; 
-}
-
-body.light #search_button {
-   background-color: #eee;
-}
-
-body.light #search_icon circle {
-   fill: #eee;
-}
-
 
 
 body.light footer {
@@ -116,35 +136,6 @@ body.light footer {
 
 
 /* DARK MODE --------------------------------------------------------------------------------- */
-
-
-body.dark #heading, body.dark #heading:visited, body.dark #heading:hover, body.dark #heading:active {
-   color: #fff;
-   font-size: 2em;
-   font-weight: bold;
-}
-
-
-
-body.dark #search_window {
-   color: #fff; 
-   box-shadow:1px 1px 1px #000;
-}
-
-body.dark #search_bar {
-   background-color: #0d1113;
-   color: #dcdcdc; 
-   border-color: #7d7d7d;
-}
-
-body.dark #search_button {
-   background-color: #464646;
-}
-
-body.dark #search_icon circle {
-   fill: #464646;
-}
-
 
 
 body.dark footer {
