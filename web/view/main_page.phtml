@@ -24,22 +24,38 @@
         
 </header>
 
+<!--
+<div name="colorpalette" style="margin-top:200px"> 
+    <span style="float:left; background-color:#17252A; width:30px; height:30px; display:block; "></span>
+    <span style="float:left; background-color:#2B7A78; width:30px; height:30px; display:block; "></span>
+    <span style="float:left; background-color:#3AAFA9; width:30px; height:30px; display:block; "></span> 
+    <span style="float:left; background-color:#DEF2F1; width:30px; height:30px; display:block; "></span> 
+    <span style="float:left; background-color:#FEFFFF; width:30px; height:30px; display:block; "></span>    
+        
+    <span style="float:left; background-color:#0B0C10; width:30px; height:30px; display:block; "></span>
+    <span style="float:left; background-color:#1F2833; width:30px; height:30px; display:block; "></span>
+    <span style="float:left; background-color:#C5C6C7; width:30px; height:30px; display:block; "></span> 
+    <span style="float:left; background-color:#66FCF1; width:30px; height:30px; display:block; "></span> 
+    <span style="float:left; background-color:#45A29E; width:30px; height:30px; display:block; "></span>    
+
+</div>
+-->
 <!-- MAIN BODY DIV - CONTAINS: ALL CONTENT -->
 <div id="main_content" style="padding:8px; padding-top:130px;min-height:500px">
   
   <!-- SEARCH WINDOW DIV - CONTAINS: SEARCH BAR-->
-  <div class="bg_color1" id="search_window" style="margin:auto; margin-top:150px; padding:34px; min-width:500px; width:50%">
+  <div class="bg_color1 min_w" id="search_window" style="margin:auto; margin-top:150px; padding:34px; width:50%">
       
       <form id = "search_form" method="post" action="request.php">
         
-        <label class="color1" for="search_bar" style="cursor:text"> Best search bar ever... such search... much wow </label> <br />
+        <label class="color0" for="search_bar" style="cursor:text"> Best search bar ever... such search... much wow </label> <br />
         
-        <input class="bg_color2 color0" id="search_bar" type="text" name="search_book" placeholder="Type plz" style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
+        <input class="bg_color2 color1" id="search_bar" type="text" name="search_book" placeholder="Type plz" style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
         <button class="bg_color3" id="search_button" type="submit" name="search_book_submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
           <!-- to button add formmethod POST  ? -->
             <svg id="search_icon" style="height:20px; width:20px;">
-                <line x1="13" y1="13" x2="20" y2="20" stroke="#7d7d7d" stroke-width="2" />
-                <circle cx="8" cy="8" r="6" stroke="#7d7d7d" stroke-width="2" fill="none" />
+                <line x1="13" y1="13" x2="20" y2="20" stroke="inherit" stroke-width="2" />
+                <circle cx="8" cy="8" r="6" stroke="inherit" stroke-width="2" fill="none" />
             </svg>
         </button>
         
@@ -48,26 +64,37 @@
   </div>
   
   <!--  RESULTS -->
-    <div id="search_results">
+    <div class="bg_color4 hidden min_w" id="search_results" >
         <?php
         if (!empty($this->found_books) && is_array($this->found_books)) { ?>
-            <table cellpadding = "5" cellspacing = "5" >
-                <tr>
+            <table class="color1" id="search_table" cellpadding = "5" cellspacing = "5" >
+                <tr class="bg_color4 color0">
                     <th>Název</th>
                     <th>Jméno Autora</th>
                     <th>Sekce</th>
                     <th>Umístění</th>
-                    <th>Inv. číslo</th>
+                    <th style="width:10%">Inv. číslo</th>
                     <th>Rok</th>
                     <th>Cena</th>
                 </tr>
-                <?php foreach ($this->found_books as $book) {
+                <?php 
+                $color_mod = 0;
+                foreach ($this->found_books as $book) {
 	                $make_space = true;
 	                $last_letter = substr($book["author_first_name"], -1);
                     if ($last_letter == "-")
-	                    $make_space = false; ?>
-
-                    <tr>
+	                    $make_space = false; 
+                    
+                    if ( $color_mod == 0 ) $color_mod = 1;
+                    else $color_mod = 0;
+                    
+                    if( $color_mod == 1 ) {
+                    ?>
+                    <tr class="bg_color5">
+                    <?php } else { ?>
+                    <tr class="bg_color4">
+                    <?php } ?>
+                    
                         <td><?= $book["name"] . (empty($book["name_2"]) ? "" : " | " . $book["name_2"]) ?></td>
                         <td><?= $book["author_first_name"] . ($make_space ? " " : "") . $book["author_surname"]?></td>
                         <td><?= $book["section"] ?></td>
@@ -76,22 +103,28 @@
                         <td><?= $book["year"] ?></td>
                         <td><?= $book["price"] ?></td>
                     </tr>
-                <?php } ?>
+                <?php } ?>  
             </table>
-
+            
+            <script>  showResults(); </script>
+            
         <?php } elseif (empty($this->found_books)) { ?>
-            <p>Žádné výsledky</p> <!-- TODO highlight this text -->
-
+            <p class="color1">Žádné výsledky</p> <!-- TODO highlight this text -->
+            
+            <script>  showResults(); </script>
+            
         <?php } elseif ($this->found_books == "empty_entry") { ?>
-            <p>Zadejte název knihy</p> <!-- TODO highlight this text -->
+            <p class="color1">Zadejte název knihy</p> <!-- TODO highlight this text -->
 
-        <?php } ?>
+            <script>  showResults(); </script>
+
+        <?php }  ?>
     </div>
 
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
-<footer class="bg_color4" style="width:100%;height:100px;min-width:600px">
+<footer class="bg_color6" style="width:100%;height:100px;min-width:600px">
   <p style="color:#fff;float:right;padding:8px"> Extra info? </p>      
 </footer>
 
