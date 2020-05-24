@@ -16,7 +16,7 @@ class Sql_comm {
                         WHERE CONCAT_WS (author_surname, author_first_name, name, name_2) LIKE \"%$request%\" COLLATE utf8mb4_general_ci ";
        */
        $search_query = "SELECT section, location, record_number, year, price, author_surname, author_first_name, name, name_2 FROM books 
-                        WHERE CONCAT_WS (author_surname, author_first_name, name, name_2) LIKE \"%$request%\" COLLATE utf8mb4_general_ci ";
+                        WHERE CONCAT_WS (author_surname, author_first_name, name, name_2) LIKE \"%$request%\" ";
 
        $books = $pdo->query($search_query)
            ->fetchAll();
