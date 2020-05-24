@@ -15,7 +15,7 @@
     <!-- LATER MAYBE ADD THIS <link rel="canonical" href="http://example.com/" /> -->                                           
 
     <link rel="stylesheet" href="css/design1.css">
-    <link rel = "icon" href = "resources/page_icon.gif ">
+    <link rel = "icon" href = "css/resources/page_icon.gif ">
     
     <script type = "text/JavaScript">
      var mode = 0;
@@ -55,16 +55,20 @@
        updateMode();
      }
      
-     function updateFooter() {
+     function updateElements() {
         document.getElementById("main_content").style.minHeight = window.innerHeight+"px";
-        document.getElementById("test_name").innerHTML = window.innerHeight+"px";
+        document.getElementById("search_button").style.height = document.getElementById("search_bar").offsetHeight+"px";
+     }
+     
+     function showResults() {
+        document.getElementById("search_results").classList.remove("hidden");
      }
      
    </script>
     
 </head>
 
-<body class="bc_color0" id="main" style="margin:0px; transition:all 0.5s ease" onresize="updateFooter();" onload="updateFooter();" >
+<body class="bg_color0" id="main" style="margin:0px; transition:all 0.5s ease" onresize="updateElements();" onload="updateElements();" >
     <?php require "view/" . "$this->template_type" . ".phtml"; // this method will print the template content ?>
 </body>
 
