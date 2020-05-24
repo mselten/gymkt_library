@@ -20,6 +20,7 @@
     	- check security (.htaccess, etc...)
         - check for sql injection
         - finish alpha version
+        - make search bar stay at place while moving with page
         - change font??
         - web page icon (done but change colors according to css)
         - add the robot.txt and other similar files

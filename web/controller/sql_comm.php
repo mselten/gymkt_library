@@ -11,8 +11,12 @@ class Sql_comm {
    function search_books($request) {
        $pdo = new PDO($this->dsn, $this->name, $this->password);
        $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
-       $search_query = "SELECT section, location, record_number, year, price, author_surname, author_first_name, name, name_2 from books 
-                        WHERE CONCAT_ws (author_surname, author_first_name, name, name_2) LIKE \"%$request%\"";
+       $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+       /*$search_query = "SELECT section, location, record_number, year, price, author_surname, author_first_name, name, name_2 FROM books
+                        WHERE CONCAT_WS (author_surname, author_first_name, name, name_2) LIKE \"%$request%\" COLLATE utf8mb4_general_ci ";
+       */
+       $search_query = "SELECT section, location, record_number, year, price, author_surname, author_first_name, name, name_2 FROM books 
+                        WHERE CONCAT_WS (author_surname, author_first_name, name, name_2) LIKE \"%$request%\" COLLATE utf8mb4_general_ci ";
 
        $books = $pdo->query($search_query)
            ->fetchAll();
