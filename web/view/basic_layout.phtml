@@ -58,17 +58,28 @@
      function updateElements() {
         document.getElementById("main_content").style.minHeight = window.innerHeight+"px";
         document.getElementById("search_button").style.height = document.getElementById("search_bar").offsetHeight+"px";
+        
      }
      
      function showResults() {
         document.getElementById("search_results").classList.remove("hidden");
      }
      
+     function scrollUpdate() {
+        if( window.pageYOffset != 0 ) {
+          document.getElementById("top_header").classList.remove("full_display");
+          document.getElementById("top_header").classList.add("collapsed_display"); 
+        } else {
+          document.getElementById("top_header").classList.remove("collapsed_display");
+          document.getElementById("top_header").classList.add("full_display");
+        }
+     }
+     
    </script>
     
 </head>
 
-<body class="bg_color0" id="main" style="margin:0px; transition:all 0.5s ease" onresize="updateElements();" onload="updateElements();" >
+<body class="bg_color0" id="main" style="margin:0px; transition:all 0.5s ease" onscroll="scrollUpdate();" onresize="updateElements();" onload="updateElements();" >
     <?php require "view/" . "$this->template_type" . ".phtml"; // this method will print the template content ?>
 </body>
 
