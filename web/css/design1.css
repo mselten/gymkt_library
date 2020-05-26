@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis');
+@import url('https://fonts.googleapis.com/css?family=Inter:300');
 
 /* BASIC GLOBAL STUFF ------------------------------------------------------------------------ */
 
 *{
-   font-family: 'Dosis', 'Helvetica';
+   font-family: 'Inter', 'Helvetica';
    font-size: 19px;
 }
 
@@ -25,6 +25,11 @@ header {
   transition: all 0.2s ease;
 }
 
+h1 {
+  font-weight: 900;
+  font-size: 1em;
+}
+
 
 #heading, #heading:visited, #heading:hover, #heading:active {
   font-size: 2em;
@@ -32,7 +37,7 @@ header {
 }
 
 #search_window, #search_results {
-   box-shadow:2px 2px 1px #000; 
+   box-shadow:3px 3px 1px #000; 
 }
 
 #search_bar {
@@ -61,7 +66,7 @@ header {
 /* new colors- dark:  #0B0C10 #1F2833 #C5C6C7 #66FCF1 #45A29E  */
 
 body.light.bg_color0 {
-  background-color: #cad3da;
+  background-color: #d4d4d4;
 }
 
 body.dark.bg_color0 {
@@ -133,7 +138,7 @@ body.dark .bg_color6 {
 
 
 body.light .color0 {
-  color: #17252A;
+  color: #6d6d6d;
 }
 
 body.dark .color0 {
@@ -148,6 +153,15 @@ body.light .color1 {
 
 body.dark .color1 {
   color: #ececec;
+}
+
+
+body.light .color3 {
+  color: #fff;
+}
+
+body.dark .color3 {
+  color: #fff;
 }
 
 
@@ -180,7 +194,7 @@ body.dark .color1 {
 }
 
 .full_display #heading{
-  margin-top:40px;
+  margin-top:20px;
 }
 
 .collapsed_display #heading{

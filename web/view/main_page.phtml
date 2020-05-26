@@ -4,15 +4,15 @@
 </script>
 
 <!-- HEADER - CONTAINS: LOGO + HEADING + MODE BUTTON-->
-<header id="top_header" class="bg_color1 full_display" style="width:100%;position:fixed;top:0px;left:0px;box-shadow:0px 2px 1px #000;">
+<header id="top_header" class="bg_color1 full_display" style="width:100%;position:fixed;top:0px;left:0px;box-shadow:0px 3px 1px #000;">
    
         <a href="index.php" target="_self" id= "homepage_logo"> <img class="logo" alt="Homepage Logo"> </a>
-        <a class="color0" id="heading" href="index.php" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-left:40px;"> Best Heading ever mk 2 </a>
+        <a class="color0" id="heading" href="index.php" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-left:40px;"><h1>Knihovna Gymnázia Klatovy</h1></a>
        
         <div style="position:absolute; right:125px; bottom:25px; margin:5px;  ">
             <button style="opacity:0;float:left" id="button_darkMode" onClick="switchMode();" > </button>
             <label class="color1" id="label_darkMode_text" style="float:left; position:relative; cursor:pointer" for="button_darkMode" > 
-               Dark mode:
+               Temný režim:
             </label>
             <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
               <div style="position:absolute; top:0.59em" >
@@ -48,9 +48,9 @@
       
       <form id = "search_form" method="post" action="request.php">
         
-        <label class="color0" for="search_bar" style="cursor:text"> Best search bar ever... such search... much wow </label> <br />
+        <label class="color0" for="search_bar" style="cursor:text; font-weight:bold; display:block; margin-bottom:-15px;"> Hledání knih </label> <br />
         
-        <input class="bg_color2 color1" id="search_bar" type="text" name="search_book" placeholder="Type plz" style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
+        <input class="bg_color2 color1" id="search_bar" type="text" name="search_book" placeholder="název, autor..." style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
         <button class="bg_color3" id="search_button" type="submit" name="search_book_submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
           <!-- to button add formmethod POST  ? -->
             <svg id="search_icon" style="height:20px; width:20px;">
@@ -69,13 +69,13 @@
         if (!empty($this->found_books) && is_array($this->found_books)) { ?>
             <table class="color1" id="search_table" cellpadding = "5" cellspacing = "5" >
                 <tr class="bg_color4 color0">
-                    <th>Název</th>
-                    <th>Jméno Autora</th>
-                    <th style="text-align:center">Sekce</th>
-                    <th style="text-align:right">Umístění</th>
-                    <th style="text-align:right; width:10%">Inv. číslo</th>
-                    <th style="text-align:right">Rok</th>
-                    <th style="text-align:right">Cena</th>
+                    <th style="width: 25%;" >Název</th>
+                    <th style="width: 25%;" >Jméno Autora</th>
+                    <th style="width:10%; text-align:center">Sekce</th>
+                    <th style="width:10%; text-align:right">Umístění</th>
+                    <th style="width:10%; text-align:right; width:10%">Inv. číslo</th>
+                    <th style="width:10%; text-align:right">Rok</th>
+                    <th style="width:10%; text-align:right">Cena</th>
                 </tr>
                 <?php 
                 $color_mod = 0;
@@ -101,7 +101,7 @@
                         <td style="text-align:right"><?= $book["location"] ?></td>
                         <td style="text-align:right"><?= $book["record_number"] ?></td>
                         <td style="text-align:right"><?= $book["year"] ?></td>
-                        <td style="text-align:right"><?= $book["price"] ?></td>
+                        <td style="text-align:right"><?= $book["price"] ?> &ensp; </td>
                     </tr>
                 <?php } ?>  
             </table>
@@ -124,8 +124,26 @@
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
-<footer class="bg_color6" style="width:100%;height:100px;min-width:600px">
-  <p style="color:#fff;float:right;padding:8px"> Extra info? </p>      
+<footer class="bg_color6" style="width:100%;height:100px;min-width:600px;">
+ <div> 
+  <table style="padding:30px; margin:auto; width:70%; border-collapse:collapse; font-weight:100" class="bg_color6 color3" cellpadding = "5" cellspacing = "5" >
+     <tr style="text-align:center">
+        <th style="width:25%; text-align:left">Vývoj </th>
+        <th style="width:25%"> Administrace </th>
+        <th style="width:25%"> SPEF </th>
+        <th style="width:25%"> Git </th>
+     </tr>
+     <tr style="text-align:center">
+        <td style="text-align:left"> Jakub Jankovec </td>
+        <td> Mgr. Pavel Hladký </th>
+        <td> SPEF </td>
+        <td> https://github.com/mselten/gymkt_library </td>
+     </tr>
+     <tr style="text-align:left">
+       <td> Marek Seltenhofer </td>
+     </tr>
+  </table>
+  </div>      
 </footer>
 
 
