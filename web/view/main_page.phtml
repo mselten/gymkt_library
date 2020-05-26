@@ -15,7 +15,7 @@
                Temný režim:
             </label>
             <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
-              <div style="position:absolute; top:0.59em" >
+              <div style="position:absolute; top:0.4em" >
                 <span id="label_darkMode_buttonBc" style="position:absolute; top:-1px; left:4px; width:30px; height:7px; display:block; border: solid 2px white; transition: all .5s ease;"></span>
                 <span id="label_darkMode_buttonKnob" style="position:absolute; top:-7px; width:19px; height:18px; display:block; border: solid 2px white; transition: all .1s ease;"></span>
               </div>
@@ -75,7 +75,7 @@
                     <th style="width:10%; text-align:right">Umístění</th>
                     <th style="width:10%; text-align:right; width:10%">Inv. číslo</th>
                     <th style="width:10%; text-align:right">Rok</th>
-                    <th style="width:10%; text-align:right">Cena</th>
+                    <th colspan="2" style="width:10%; text-align:center">Cena</th>   
                 </tr>
                 <?php 
                 $color_mod = 0;
@@ -95,13 +95,14 @@
                     <tr class="bg_color4">
                     <?php } ?>
                     
-                        <td><?= $book["name"] . (empty($book["name_2"]) ? "" : " | " . $book["name_2"]) ?></td>
-                        <td><?= $book["author_first_name"] . ($make_space ? " " : "") . $book["author_surname"]?></td>
-                        <td style="text-align:center"><?= $book["section"] ?></td>
-                        <td style="text-align:right"><?= $book["location"] ?></td>
-                        <td style="text-align:right"><?= $book["record_number"] ?></td>
-                        <td style="text-align:right"><?= $book["year"] ?></td>
-                        <td style="text-align:right"><?= $book["price"] ?> &ensp; </td>
+                        <td style="width:25%;"><?= $book["name"] . (empty($book["name_2"]) ? "" : " | " . $book["name_2"]) ?></td>
+                        <td style="width:25%;"><?= $book["author_first_name"] . ($make_space ? " " : "") . $book["author_surname"]?></td>
+                        <td style="width:10%; text-align:center"><?= $book["section"] ?></td>
+                        <td style="width:10%; text-align:right"><?= $book["location"] ?></td>
+                        <td style="width:10%; text-align:right"><?= $book["record_number"] ?></td>
+                        <td style="width:10%; text-align:right"><?= $book["year"] ?></td>
+                        <td style="width:6%; text-align:right"><?= $book["price"] ?> </td>
+                        <td style="width:4%"></td>
                     </tr>
                 <?php } ?>  
             </table>
@@ -124,26 +125,26 @@
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
-<footer class="bg_color6" style="width:100%;height:100px;min-width:600px;">
- <div> 
+<footer class="bg_color6 min_w" style="width:100%;min-width: 700px; min-height:100px;padding-top:20px; padding-bottom:20px">
+  
   <table style="padding:30px; margin:auto; width:70%; border-collapse:collapse; font-weight:100" class="bg_color6 color3" cellpadding = "5" cellspacing = "5" >
      <tr style="text-align:center">
         <th style="width:25%; text-align:left">Vývoj </th>
         <th style="width:25%"> Administrace </th>
         <th style="width:25%"> SPEF </th>
-        <th style="width:25%"> Git </th>
+        <th style="width:25%; text-align:right"> Git </th>
      </tr>
      <tr style="text-align:center">
         <td style="text-align:left"> Jakub Jankovec </td>
         <td> Mgr. Pavel Hladký </th>
         <td> SPEF </td>
-        <td> https://github.com/mselten/gymkt_library </td>
+        <td style="text-align:right"> github.com/mselten/gymkt_library</td>
      </tr>
      <tr style="text-align:left">
        <td> Marek Seltenhofer </td>
      </tr>
   </table>
-  </div>      
+      
 </footer>
 
 

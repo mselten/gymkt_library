@@ -3,11 +3,10 @@
 ## TODO:
 ```
 - KUBA
-        - repair footer
-        - add font and colors layout
-        - add new look to all layouts
-        - make the result look good 
-        - move resources to css
+        - improve footer
+        - modernize css...
+        - add polygons to background
+        - play with logo
 
 - MAREK
     	- validate user input - book search - sql injection
