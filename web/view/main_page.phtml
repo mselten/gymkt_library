@@ -24,34 +24,18 @@
         
 </header>
 
-<!--
-<div name="colorpalette" style="margin-top:200px"> 
-    <span style="float:left; background-color:#17252A; width:30px; height:30px; display:block; "></span>
-    <span style="float:left; background-color:#2B7A78; width:30px; height:30px; display:block; "></span>
-    <span style="float:left; background-color:#3AAFA9; width:30px; height:30px; display:block; "></span> 
-    <span style="float:left; background-color:#DEF2F1; width:30px; height:30px; display:block; "></span> 
-    <span style="float:left; background-color:#FEFFFF; width:30px; height:30px; display:block; "></span>    
-        
-    <span style="float:left; background-color:#0B0C10; width:30px; height:30px; display:block; "></span>
-    <span style="float:left; background-color:#1F2833; width:30px; height:30px; display:block; "></span>
-    <span style="float:left; background-color:#C5C6C7; width:30px; height:30px; display:block; "></span> 
-    <span style="float:left; background-color:#66FCF1; width:30px; height:30px; display:block; "></span> 
-    <span style="float:left; background-color:#45A29E; width:30px; height:30px; display:block; "></span>    
-
-</div>
--->
 <!-- MAIN BODY DIV - CONTAINS: ALL CONTENT -->
 <div id="main_content" style="padding:8px; padding-top:130px;min-height:500px">
   
   <!-- SEARCH WINDOW DIV - CONTAINS: SEARCH BAR-->
-  <div class="bg_color1 min_w" id="search_window" style="margin:auto; margin-top:150px; padding:34px; width:50%">
+  <div class="bg_color2 min_w" id="search_window" style="margin:auto; margin-top:150px; padding:34px; width:50%">
       
       <form id = "search_form" method="post" action="request.php">
         
-        <label class="color0" for="search_bar" style="cursor:text; font-weight:bold; display:block; margin-bottom:-15px;"> Hledání knih </label> <br />
+        <label class="color2" for="search_bar" style="cursor:text; font-weight:bold; display:block; margin-bottom:-15px;"> Hledání knih </label> <br />
         
-        <input class="bg_color2 color1" id="search_bar" type="text" name="search_book" placeholder="název, autor..." style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
-        <button class="bg_color3" id="search_button" type="submit" name="search_book_submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
+        <input class="bg_color3 color3" id="search_bar" type="text" name="search_book" placeholder="název, autor..." style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
+        <button class="bg_color4" id="search_button" type="submit" name="search_book_submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
           <!-- to button add formmethod POST  ? -->
             <svg id="search_icon" style="height:20px; width:20px;">
                 <line x1="13" y1="13" x2="20" y2="20" stroke="inherit" stroke-width="2" />
@@ -64,11 +48,11 @@
   </div>
   
   <!--  RESULTS -->
-    <div class="bg_color4 hidden min_w" id="search_results" >
+    <div class="bg_color5 hidden min_w" id="search_results" >
         <?php
         if (!empty($this->found_books) && is_array($this->found_books)) { ?>
-            <table class="color1" id="search_table" cellpadding = "5" cellspacing = "5" >
-                <tr class="bg_color4 color0">
+            <table class="color5" id="search_table" cellpadding = "5" cellspacing = "5" >
+                <tr class="bg_color5 color4">
                     <th style="width: 25%;" >Název</th>
                     <th style="width: 25%;" >Jméno Autora</th>
                     <th style="width:10%; text-align:center">Sekce</th>
@@ -90,9 +74,9 @@
                     
                     if( $color_mod == 1 ) {
                     ?>
-                    <tr class="bg_color5">
+                    <tr class="bg_color6">
                     <?php } else { ?>
-                    <tr class="bg_color4">
+                    <tr class="bg_color5">
                     <?php } ?>
                     
                         <td style="width:25%;"><?= $book["name"] . (empty($book["name_2"]) ? "" : " | " . $book["name_2"]) ?></td>
@@ -125,10 +109,10 @@
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
-<footer class="bg_color6 min_w" style="width:100%;min-width: 700px; min-height:100px;padding-top:20px; padding-bottom:20px">
+<footer class="bg_color7 min_w" style="width:100%;min-width: 700px; min-height:100px;padding-top:20px; padding-bottom:20px">
   
-  <table style="padding:30px; margin:auto; width:70%; border-collapse:collapse; font-weight:100" class="bg_color6 color3" cellpadding = "5" cellspacing = "5" >
-     <tr style="text-align:center">
+  <table class="color7" style="padding:30px; margin:auto; width:70%; border-collapse:collapse; font-weight:100" cellpadding = "5" cellspacing = "5" >
+     <tr class="color6" style="text-align:center">
         <th style="width:25%; text-align:left">Vývoj </th>
         <th style="width:25%"> Administrace </th>
         <th style="width:25%"> SPEF </th>
