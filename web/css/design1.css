@@ -4,7 +4,7 @@
 
 *{
    font-family: 'Inter', 'Helvetica';
-   font-size: 19px;
+   font-size: 18px;
 }
 
 .logo {
@@ -18,7 +18,7 @@
 }
 
 .min_w {
-  min-width: 520px;
+  min-width: 620px;
 }
 
 header {
@@ -58,7 +58,18 @@ h1 {
   text-align: left;
 }
 
+/* COLOR VARIABLES ---------------------------------------------------------------------------- */
 
+:root {
+  --bg-color-0-l: #d4d4d4;
+  --bg-color-0-d: #0B0C10;
+  
+  --bg-color-1-l: #FEFFFF;
+  --bg-color-1-d: #1F2833;
+  
+  --bg-color-2-l: var(--bg-color-1-l);
+  --bg-color-2-d: var(--bg-color-0-d);  
+}
 
 /* BACKGROUND COLORS -------------------------------------------------------------------------- */
 
@@ -66,31 +77,31 @@ h1 {
 /* new colors- dark:  #0B0C10 #1F2833 #C5C6C7 #66FCF1 #45A29E  */
 
 body.light.bg_color0 {
-  background-color: #d4d4d4;
+  background-color: var(--bg-color-0-l);
 }
 
 body.dark.bg_color0 {
-  background-color: #0B0C10;
+  background-color: var(--bg-color-0-d);
 }
 
 
 
 body.light .bg_color1 {
-  background-color: #FEFFFF;
+  background-color: var(--bg-color-1-l);
 }
 
 body.dark .bg_color1 {
-  background-color: #1F2833;
+  background-color: var(--bg-color-1-d);
 }
 
 
 
 body.light .bg_color2 {
-  background-color: #FEFFFF;
+  background-color: var(--bg-color-2-l);
 }
 
 body.dark .bg_color2 {
-  background-color: #0B0C10;
+  background-color: var(--bg-color-2-d);
 }
 
 
@@ -157,11 +168,11 @@ body.dark .color1 {
 
 
 body.light .color3 {
-  color: #fff;
+  color: #EEE;
 }
 
 body.dark .color3 {
-  color: #fff;
+  color: #EEE;
 }
 
 

@@ -5,6 +5,10 @@
 - KUBA
         - repair footer
         - check mobile version
+        - improve footer
+        - modernize css...
+        - add polygons to background
+        - play with logo
 
 - MAREK
     	- validate user input - book search - sql injection
@@ -26,7 +30,7 @@
         - make url nicer user wont know which folder is he in
         - index the database????
         - logo square?, remove shadow?
-        - add SAVEPOINT to database 
+        - add SAVEPOINT to database
         - spaces between name and surname always if not after dash or dot
 ```
 
@@ -75,4 +79,4 @@
 6. make search for each word
 7. put together the search result for each word and find the most words match on each book
 8. make ranking of results (prioritize exact mach)
-     
+
