@@ -4,10 +4,7 @@
 ```
 - KUBA
         - repair footer
-        - add font and colors layout
-        - add new look to all layouts
-        - make the result look good 
-        - move resources to css
+        - check mobile version
 
 - MAREK
     	- validate user input - book search - sql injection
