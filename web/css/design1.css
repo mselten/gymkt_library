@@ -1,28 +1,26 @@
-@import url('https://fonts.googleapis.com/css?family=Inter:300');
 
-/* BASIC GLOBAL STUFF ------------------------------------------------------------------------ */
+/* BASIC GLOBAL CONTROL STUFF ----------------------------------------------------------------- */
 
 *{
    font-family: 'Inter', 'Helvetica';
    font-size: 18px;
 }
 
-.logo {
-  float:left;
-  content: url("resources/logo_miniature.svg");
-  height: inherit;
-}
-
 .hidden {
   opacity:0;
 }
 
+/* tied to font-size, basically manualy dictaded by min-width of search results table... */
 .min_w {
   min-width: 620px;
 }
 
-header {
-  transition: all 0.2s ease;
+.shadow_s {
+  box-shadow:0px 3px 1px var(--sh-color-1);
+}
+
+.shadow_se {
+  box-shadow:3px 3px 1px var(--sh-color-1);
 }
 
 h1 {
@@ -30,14 +28,80 @@ h1 {
   font-size: 1em;
 }
 
+#logo {
+  float:left;
+  content: url("resources/logo_miniature.svg");
+  height: inherit;
+}
+
+/* HEADER CONTROLS ---------------------------------------------------------------------------- */
+ 
+header {
+  transition: all 0.2s ease;
+}
+
+#homepage_logo, #heading, #darkMode_div {
+  transition: inherit;
+}
 #heading, #heading:visited, #heading:hover, #heading:active {
   font-size: 2em;
   font-weight: bold;
+  padding-left: 8px;
+  margin-left: 40px; 
 }
 
-#search_window, #search_results {
-   box-shadow:3px 3px 1px #000; 
+
+.full_display {
+  min-height:110px;
+  padding: 30px;
 }
+.full_display #homepage_logo { 
+  height: 125px; 
+}
+.full_display #heading {
+  margin-top:20px;
+}
+.full_display #darkMode_div {
+  bottom: 25px;
+}
+
+.collapsed_display {
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.collapsed_display #homepage_logo { 
+  opacity: 0;
+  height: 0px;
+  width: 125px; 
+}
+.collapsed_display #heading{
+  margin-top: 0px;
+}
+.collapsed_display #darkMode_div {
+  bottom: 5px;
+}
+
+
+/* DARK MODE BUTTON ---------------------------------------------------------------------------*/
+
+#label_darkMode_buttonKnob {
+  background-color: #0B0C10;
+}
+body.light #label_darkMode_buttonKnob {
+  left:0px;
+}
+body.dark #label_darkMode_buttonKnob {
+  left:19px;
+}
+body.light #label_darkMode_buttonBc {
+  background-color: var(--bg-color-4-l);
+}
+body.dark #label_darkMode_buttonBc {
+  background-color: var(--bg-color-1-l);
+}
+
+/* SEARCH WINDOW / RESULTS CONTROLS ---------------------------------------------------------- */
 
 #search_bar {
    border-color: #7d7d7d; 
@@ -57,73 +121,19 @@ h1 {
   text-align: left;
 }
 
-
-/* HEADER CONTROLS ---------------------------------------------------------------------------- */
-
-#homepage_logo, #heading {
-  transition: inherit;
-}
-
-
-.full_display {
-  min-height:110px;
-  padding: 30px;
-}
-
-.collapsed_display {
-  padding: 15px;
-  padding-left:30px;
-  padding-right:30px;
-}
-
-.full_display #homepage_logo { 
-  height: 125px; 
-}
-
-.collapsed_display #homepage_logo { 
-  opacity: 0;
-  height: 0px;
-  width: 125px; 
-}
-
-.full_display #heading{
-  margin-top:20px;
-}
-
-.collapsed_display #heading{
-  margin-top: 0px;
-}
-
-/* DARK MODE BUTTON ---------------------------------------------------------------------------*/
-
-#label_darkMode_buttonKnob {
-  background-color: #0B0C10;
-}
-body.light #label_darkMode_buttonKnob {
-  left:0px;
-}
-body.dark #label_darkMode_buttonKnob {
-  left:19px;
-}
-body.light #label_darkMode_buttonBc {
-  background-color: #3aafa9;
-}
-body.dark #label_darkMode_buttonBc {
-  background-color: #def2f1;
-}
-
 /* LIGHT MODE -------------------------------------------------------------------------------- */
+
 body.light {
   background-image: url("resources/light_bc.jpg");
   background-size: 1100px;
 }
 
-body.light footer {
-   box-shadow:0px -1px 1px #717171;
-}
-
 body.light #search_icon {
   stroke: #feffff;
+}
+
+body.light footer {
+   box-shadow:0px -1px 1px #717171;
 }
 
 /* DARK MODE --------------------------------------------------------------------------------- */
@@ -133,12 +143,12 @@ body.dark {
   background-size: 1100px;
 }
 
-body.dark footer {
-   box-shadow:0px -1px 1px #000;
-}
-
 body.dark #search_icon {
   stroke: #0b0c10;
+}
+
+body.dark footer {
+   box-shadow:0px -1px 1px #000;
 } 
 
 /* COLOR VARIABLES ---------------------------------------------------------------------------- */
@@ -195,7 +205,9 @@ body.dark #search_icon {
   --color-6-d: #EEE;
   /* footer body */
   --color-7-l: var(--color-6-l);
-  --color-7-d: var(--color-6-d);  
+  --color-7-d: var(--color-6-d);
+  
+  --sh-color-1: #000;  
 }
 
 /* BACKGROUND COLORS -------------------------------------------------------------------------- */

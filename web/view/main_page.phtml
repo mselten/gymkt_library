@@ -4,20 +4,20 @@
 </script>
 
 <!-- HEADER - CONTAINS: LOGO + HEADING + MODE BUTTON-->
-<header id="top_header" class="bg_color1 full_display" style="width:100%;position:fixed;top:0px;left:0px;box-shadow:0px 3px 1px #000;">
+<header  class="bg_color1 full_display shadow_s" id="top_header" style="width:100%;position:fixed;top:0px;left:0px;">
    
-        <a href="index.php" target="_self" id= "homepage_logo"> <img class="logo" alt="Homepage Logo"> </a>
-        <a class="color0" id="heading" href="index.php" target:"_self" style="text-decoration:none; padding-left:8px; float:left; margin-left:40px;"><h1>Knihovna Gymnázia Klatovy</h1></a>
+        <a href="index.php" target="_self" id= "homepage_logo"> <img id="logo" alt="Homepage Logo"> </a>
+        <a class="color0" id="heading" href="index.php" target="_self" style="text-decoration:none; float:left;"><h1>Knihovna Gymnázia Klatovy</h1></a>
        
-        <div style="position:absolute; right:125px; bottom:25px; margin:5px;  ">
-            <button style="opacity:0;float:left" id="button_darkMode" onClick="switchMode();" > </button>
+        <div id="darkMode_div" style="position:absolute; right:125px; margin:5px;  ">
+            <button id="button_darkMode" style="opacity:0;float:left" onClick="switchMode();" > </button>
             <label class="color1" id="label_darkMode_text" style="float:left; position:relative; cursor:pointer" for="button_darkMode" > 
                Temný režim:
             </label>
             <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
               <div style="position:absolute; top:0.4em" >
-                <span id="label_darkMode_buttonBc" style="position:absolute; top:-1px; left:4px; width:30px; height:7px; display:block; border: solid 2px white; transition: all .5s ease;"></span>
-                <span id="label_darkMode_buttonKnob" style="position:absolute; top:-7px; width:19px; height:18px; display:block; border: solid 2px white; transition: all .1s ease;"></span>
+                <span id="label_darkMode_buttonBc" style="position:absolute; top:-1px; left:4px; width:30px; height:7px; display:block; border: solid 2px var(--bg-color-1-l); transition: all .5s ease;"></span>
+                <span id="label_darkMode_buttonKnob" style="position:absolute; top:-7px; width:19px; height:18px; display:block; border: solid 2px var(--bg-color-1-l); transition: all .1s ease;"></span>
               </div>
             </label>
         </div>
@@ -25,17 +25,20 @@
 </header>
 
 <!-- MAIN BODY DIV - CONTAINS: ALL CONTENT -->
-<div id="main_content" style="padding:8px; padding-top:130px;min-height:500px">
+<div id="main_content" style="padding:8px; padding-top:130px; min-height:500px">
   
   <!-- SEARCH WINDOW DIV - CONTAINS: SEARCH BAR-->
-  <div class="bg_color2 min_w" id="search_window" style="margin:auto; margin-top:150px; padding:34px; width:50%">
+  <div class="bg_color2 min_w shadow_se" id="search_window" style="margin:auto; margin-top:150px; padding:34px; width:50%">
       
       <form id = "search_form" method="post" action="request.php">
         
-        <label class="color2" for="search_bar" style="cursor:text; font-weight:bold; display:block; margin-bottom:-15px;"> Hledání knih </label> <br />
+        <label class="color2" for="search_bar" style="margin-bottom:-10px; cursor:text; font-weight:bold; display:block;"> 
+          Hledání knih 
+        </label> 
+        <br />
         
-        <input class="bg_color3 color3" id="search_bar" type="text" name="search_book" placeholder="název, autor..." style="margin-top:5px; width:80%; border-style:solid; padding:5px; line-height: 1.5em;">
-        <button class="bg_color4" id="search_button" type="submit" name="search_book_submit" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:5px;  border-style:solid; border-width:1px; border-color:#7d7d7d; cursor:pointer" form="search_form"> 
+        <input class="bg_color3 color3" id="search_bar" style="width:80%; border-style:solid; padding:5px; line-height: 1.5em;" type="text" name="search_book" placeholder="název, autor..." >
+        <button class="bg_color4" id="search_button" style="float:right; width:15%; max-width:130px; margin:0px; height:34px;  margin-left:10px; margin-top:0px;  border-style: solid; border-width: 1px; border-color: #7d7d7d; cursor: pointer" type="submit" name="search_book_submit" form="search_form"> 
           <!-- to button add formmethod POST  ? -->
             <svg id="search_icon" style="height:20px; width:20px;">
                 <line x1="13" y1="13" x2="20" y2="20" stroke="inherit" stroke-width="2" />
@@ -48,7 +51,7 @@
   </div>
   
   <!--  RESULTS -->
-    <div class="bg_color5 hidden min_w" id="search_results" >
+    <div class="bg_color5 hidden min_w shadow_se" id="search_results" >
         <?php
         if (!empty($this->found_books) && is_array($this->found_books)) { ?>
             <table class="color5" id="search_table" cellpadding = "5" cellspacing = "5" >
@@ -94,12 +97,12 @@
             <script>  showResults(); </script>
             
         <?php } elseif (empty($this->found_books)) { ?>
-            <p class="color1">Žádné výsledky</p> <!-- TODO highlight this text -->
+            <p class="color5">Žádné výsledky</p> <!-- TODO highlight this text -->
             
             <script>  showResults(); </script>
             
         <?php } elseif ($this->found_books == "empty_entry") { ?>
-            <p class="color1">Zadejte název knihy</p> <!-- TODO highlight this text -->
+            <p class="color5">Zadejte název knihy</p> <!-- TODO highlight this text -->
 
             <script>  showResults(); </script>
 
