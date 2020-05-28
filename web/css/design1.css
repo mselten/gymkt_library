@@ -10,6 +10,10 @@
   opacity:0;
 }
 
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
 /* tied to font-size, basically manualy dictaded by min-width of search results table... */
 .min_w {
   min-width: 620px;
@@ -119,6 +123,47 @@ body.dark #label_darkMode_buttonBc {
   width: 100%;
   border-collapse: collapse;
   text-align: left;
+}
+
+/* FOOTER INFO ------------------------------------------------------------------------------- */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  padding: 5px;
+  border-bottom: 1px dotted gray;
+  width: 150px; 
+  text-align:center;
+}
+
+.tooltip .tiptext {
+  visibility: hidden;
+  background-color: white;
+  color: #000;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
+  
+  position: absolute;
+  z-index: 1;
+  
+  top: 150%;
+  left: 50%;
+}
+
+.tooltip:hover .tiptext {
+  visibility: visible;
+}
+
+.tooltip .tiptext::after {
+  content: " ";
+  position: absolute;
+  bottom: 100%;  /* At the top of the tooltip */
+  left: 50%;
+  margin-left: -10px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: transparent transparent white transparent;
 }
 
 /* LIGHT MODE -------------------------------------------------------------------------------- */
