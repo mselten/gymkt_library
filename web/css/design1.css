@@ -34,17 +34,15 @@ h1 {
 
 /* HEADER CONTROLS ---------------------------------------------------------------------------- */
  
-header {
-  transition: all 0.2s ease;
+header, #homepage_logo, #heading, #darkMode_div {
+  transition: all 0.2s ease, background 0s;
 }
 
 #homepage_logo {
  float: left;
 }
 
-#homepage_logo, #heading, #darkMode_div {
-  transition: inherit;
-}
+
 #heading, #heading:visited, #heading:hover, #heading:active {
   font-size: 2em;
   font-weight: bold;
@@ -109,7 +107,7 @@ body.dark #label_darkMode_buttonBc {
 }
 
 #search_window {
-  transition: all 0.2s ease;
+  transition: all 0.2s ease, background 0s;
   margin: auto;
 }
 
