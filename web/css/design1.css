@@ -32,16 +32,14 @@ h1 {
   font-size: 1em;
 }
 
-#logo {
-  float:left;
-  content: url("resources/logo_miniature.svg");
-  height: inherit;
-}
-
 /* HEADER CONTROLS ---------------------------------------------------------------------------- */
  
 header {
   transition: all 0.2s ease;
+}
+
+#homepage_logo {
+ float: left;
 }
 
 #homepage_logo, #heading, #darkMode_div {
@@ -60,7 +58,7 @@ header {
   padding: 30px;
 }
 .full_display #homepage_logo { 
-  height: 125px; 
+  width: 125px; 
 }
 .full_display #heading {
   margin-top:20px;
@@ -77,7 +75,7 @@ header {
 .collapsed_display #homepage_logo { 
   opacity: 0;
   height: 0px;
-  width: 125px; 
+  width: 0px; 
 }
 .collapsed_display #heading{
   margin-top: 0px;
@@ -85,7 +83,6 @@ header {
 .collapsed_display #darkMode_div {
   bottom: 5px;
 }
-
 
 /* DARK MODE BUTTON ---------------------------------------------------------------------------*/
 
@@ -110,13 +107,33 @@ body.dark #label_darkMode_buttonBc {
 #search_bar {
    border-color: #7d7d7d; 
 }
+
+#search_window {
+  transition: all 0.2s ease;
+  margin: auto;
+}
+
+
+.normal_position #search_window {
+  position: relative;
+  width:50%; 
+}
+
+.fixed_position #search_window {
+  position: fixed;
+  width:60%;
+  top: 140px;
+  left: 0;
+  right: 0;
+}
+
                   
 #search_results {
   width: 50%;
+  padding: 34px;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  padding: 34px;
 }
 
 #search_table {
@@ -225,6 +242,16 @@ body.dark footer {
   /* footer */
   --bg-color-7-l: #17252A;
   --bg-color-7-d: #1d1d1d;
+  /* logo colors */
+  /* logo bg */
+  --bg-color-8-l: var(--bg-color-4-l);
+  --bg-color-8-d: var(--bg-color-6-d);
+  /* logo shadow */
+  --bg-color-9-l: #000;
+  --bg-color-9-d: #000;
+  /* logo foreground */
+  --bg-color-10-l: #fff;
+  --bg-color-10-d: var(--color-0-d);
   
   /* TEXT COLORS */
   /* heading */
@@ -318,6 +345,30 @@ body.light .bg_color7 {
 }
 body.dark .bg_color7 {
   background-color: var(--bg-color-7-d);
+}
+
+
+body.light .bg_color8 {
+  fill: var(--bg-color-8-l);
+}
+body.dark .bg_color8 {
+  fill: var(--bg-color-8-d);
+}
+
+
+body.light .bg_color9 {
+  fill: var(--bg-color-9-l);
+}
+body.dark .bg_color9 {
+  fill: var(--bg-color-9-d);
+}
+
+
+body.light .bg_color10 {
+  fill: var(--bg-color-10-l);
+}
+body.dark .bg_color10 {
+  fill: var(--bg-color-10-d);
 }
 
 /* COLORS -------------------------------------------------------------------------------------- */
