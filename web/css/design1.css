@@ -1,28 +1,30 @@
-@import url('https://fonts.googleapis.com/css?family=Inter:300');
 
-/* BASIC GLOBAL STUFF ------------------------------------------------------------------------ */
+/* BASIC GLOBAL CONTROL STUFF ----------------------------------------------------------------- */
 
 *{
    font-family: 'Inter', 'Helvetica';
    font-size: 18px;
 }
 
-.logo {
-  float:left;
-  content: url("resources/logo_miniature.svg");
-  height: inherit;
-}
-
 .hidden {
   opacity:0;
 }
 
+a, a:visited, a:hover, a:active {
+  color: inherit;
+}
+
+/* tied to font-size, basically manualy dictaded by min-width of search results table... */
 .min_w {
   min-width: 620px;
 }
 
-header {
-  transition: all 0.2s ease;
+.shadow_s {
+  box-shadow:0px 3px 1px var(--sh-color-1);
+}
+
+.shadow_se {
+  box-shadow:3px 3px 1px var(--sh-color-1);
 }
 
 h1 {
@@ -30,26 +32,106 @@ h1 {
   font-size: 1em;
 }
 
+/* HEADER CONTROLS ---------------------------------------------------------------------------- */
+ 
+header, #homepage_logo, #heading, #darkMode_div {
+  transition: all 0.2s ease, background 0s;
+}
+
+#homepage_logo {
+ float: left;
+}
+
 
 #heading, #heading:visited, #heading:hover, #heading:active {
   font-size: 2em;
   font-weight: bold;
+  padding-left: 8px;
+  margin-left: 40px; 
 }
 
-#search_window, #search_results {
-   box-shadow:3px 3px 1px #000; 
+
+.full_display {
+  min-height:110px;
+  padding: 30px;
 }
+.full_display #homepage_logo { 
+  width: 125px; 
+}
+.full_display #heading {
+  margin-top:20px;
+}
+.full_display #darkMode_div {
+  bottom: 25px;
+}
+
+.collapsed_display {
+  padding: 15px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.collapsed_display #homepage_logo { 
+  opacity: 0;
+  height: 0px;
+  width: 0px; 
+}
+.collapsed_display #heading{
+  margin-top: 0px;
+}
+.collapsed_display #darkMode_div {
+  bottom: 5px;
+}
+
+/* DARK MODE BUTTON ---------------------------------------------------------------------------*/
+
+#label_darkMode_buttonKnob {
+  background-color: #0B0C10;
+}
+body.light #label_darkMode_buttonKnob {
+  left:0px;
+}
+body.dark #label_darkMode_buttonKnob {
+  left:19px;
+}
+body.light #label_darkMode_buttonBc {
+  background-color: var(--bg-color-4-l);
+}
+body.dark #label_darkMode_buttonBc {
+  background-color: var(--bg-color-1-l);
+}
+
+/* SEARCH WINDOW / RESULTS CONTROLS ---------------------------------------------------------- */
 
 #search_bar {
    border-color: #7d7d7d; 
 }
+
+#search_window {
+  transition: all 0.2s ease, background 0s;
+  margin: auto;
+}
+
+
+.normal_position #search_window {
+  position: relative;
+  width:50%; 
+}
+
+.fixed_position #search_window {
+  position: fixed;
+  width:60%;
+  top: 140px;
+  left: 0;
+  right: 0;
+}
+
                   
 #search_results {
   width: 50%;
+  padding: 34px;
   margin: auto;
   margin-top: 20px;
   margin-bottom: 20px;
-  padding: 34px;
 }
 
 #search_table {
@@ -58,202 +140,290 @@ h1 {
   text-align: left;
 }
 
-/* COLOR VARIABLES ---------------------------------------------------------------------------- */
+/* FOOTER INFO ------------------------------------------------------------------------------- */
 
-:root {
-  --bg-color-0-l: #d4d4d4;
-  --bg-color-0-d: #0B0C10;
+.tooltip {
+  position: relative;
+  display: inline-block;
+  padding: 5px;
+  border-bottom: 1px dotted gray;
+  width: 150px; 
+  text-align:center;
+}
+
+.tooltip .tiptext {
+  visibility: hidden;
+  background-color: white;
+  color: #000;
+  text-align: center;
+  padding: 5px 5px;
+  border-radius: 6px;
   
-  --bg-color-1-l: #FEFFFF;
-  --bg-color-1-d: #1F2833;
+  position: absolute;
+  z-index: 1;
   
-  --bg-color-2-l: var(--bg-color-1-l);
-  --bg-color-2-d: var(--bg-color-0-d);  
+  top: 110%;
+  left: 50%;
 }
 
-/* BACKGROUND COLORS -------------------------------------------------------------------------- */
-
-/* new colors- light: #17252A #2B7A78 #3AAFA9 #DEF2F1 #FEFFFF */
-/* new colors- dark:  #0B0C10 #1F2833 #C5C6C7 #66FCF1 #45A29E  */
-
-body.light.bg_color0 {
-  background-color: var(--bg-color-0-l);
+.tooltip:hover .tiptext {
+  visibility: visible;
 }
 
-body.dark.bg_color0 {
-  background-color: var(--bg-color-0-d);
+.tooltip .tiptext::after {
+  content: " ";
+  position: absolute;
+  bottom: 100%;  /* At the top of the tooltip */
+  left: 50%;
+  margin-left: -10px;
+  border-width: 10px;
+  border-style: solid;
+  border-color: transparent transparent white transparent;
 }
-
-
-
-body.light .bg_color1 {
-  background-color: var(--bg-color-1-l);
-}
-
-body.dark .bg_color1 {
-  background-color: var(--bg-color-1-d);
-}
-
-
-
-body.light .bg_color2 {
-  background-color: var(--bg-color-2-l);
-}
-
-body.dark .bg_color2 {
-  background-color: var(--bg-color-2-d);
-}
-
-
-
-body.light .bg_color3 {
-  background-color: #3AAFA9;
-}
-
-body.dark .bg_color3 {
-  background-color: #67E0D7;
-}
-
-
-
-body.light .bg_color4 {
-  background-color: #FEFFFF;
-}
-
-body.dark .bg_color4 {
-  background-color: #1F2833;
-}
-
-
-
-body.light .bg_color5 {
-  background-color: #f1f1f1;
-}
-
-body.dark .bg_color5 {
-  background-color: #343e4a;
-}
-
-
-
-body.light .bg_color6 {
-  background-color:#17252A;
-}
-
-body.dark .bg_color6 {
-  background-color:#1d1d1d;
-}
-
-
-/* COLORS -------------------------------------------------------------------------------------- */
-
-
-body.light .color0 {
-  color: #6d6d6d;
-}
-
-body.dark .color0 {
-  color: #e0fffc;
-}
-
-
-
-body.light .color1 {
-  color: #17252A;
-}
-
-body.dark .color1 {
-  color: #ececec;
-}
-
-
-body.light .color3 {
-  color: #EEE;
-}
-
-body.dark .color3 {
-  color: #EEE;
-}
-
-
-/* HEADER CONTROLS ---------------------------------------------------------------------------- */
-
-#homepage_logo, #heading {
-  transition: inherit;
-}
-
-
-.full_display {
-  min-height:110px;
-  padding: 30px;
-}
-
-.collapsed_display {
-  padding: 15px;
-  padding-left:30px;
-  padding-right:30px;
-}
-
-.full_display #homepage_logo { 
-  height: 125px; 
-}
-
-.collapsed_display #homepage_logo { 
-  opacity: 0;
-  height: 0px;
-  width: 125px; 
-}
-
-.full_display #heading{
-  margin-top:20px;
-}
-
-.collapsed_display #heading{
-  margin-top: 0px;
-}
-
-/* DARK MODE BUTTON ---------------------------------------------------------------------------*/
-
-
-#label_darkMode_buttonKnob {
-  background-color: #0B0C10;
-}
-
-body.light #label_darkMode_buttonKnob {
-  left:0px;
-}
-
-body.dark #label_darkMode_buttonKnob {
-  left:19px;
-}
-
-body.light #label_darkMode_buttonBc {
-  background-color: #3aafa9;
-}
-
-body.dark #label_darkMode_buttonBc {
-  background-color: #def2f1;
-}
-
 
 /* LIGHT MODE -------------------------------------------------------------------------------- */
 
-
-body.light footer {
-   box-shadow:0px -1px 1px #717171;
+body.light {
+  background-image: url("resources/light_bc.jpg");
+  background-size: 1100px;
 }
 
 body.light #search_icon {
   stroke: #feffff;
 }
 
+body.light footer {
+   box-shadow:0px -1px 1px #717171;
+}
+
 /* DARK MODE --------------------------------------------------------------------------------- */
 
-
-body.dark footer {
-   box-shadow:0px -1px 1px #000;
+body.dark {
+  background-image: url("resources/dark_bc.jpg");
+  background-size: 1100px;
 }
 
 body.dark #search_icon {
   stroke: #0b0c10;
+}
+
+body.dark footer {
+   box-shadow:0px -1px 1px #000;
 } 
+
+/* COLOR VARIABLES ---------------------------------------------------------------------------- */
+
+:root {
+
+  /* BACKGROUND COLORS */
+  /* body bc */
+  --bg-color-0-l: #d4d4d4;
+  --bg-color-0-d: #0B0C10;
+  /* head bc */
+  --bg-color-1-l: #FEFFFF;
+  --bg-color-1-d: #1F2833;
+  /* search window */
+  --bg-color-2-l: var(--bg-color-1-l);
+  --bg-color-2-d: var(--bg-color-1-d);
+  /* serach bar */
+  --bg-color-3-l: var(--bg-color-1-l);
+  --bg-color-3-d: var(--bg-color-0-d);
+  /* search button */ 
+  --bg-color-4-l: #3AAFA9;
+  --bg-color-4-d: #67E0D7; 
+  /* results base */
+  --bg-color-5-l: var(--bg-color-1-l); 
+  --bg-color-5-d: var(--bg-color-1-d);
+  /* results secondary */
+  --bg-color-6-l: #f1f1f1;
+  --bg-color-6-d: #343e4a;
+  /* footer */
+  --bg-color-7-l: #17252A;
+  --bg-color-7-d: #1d1d1d;
+  /* logo colors */
+  /* logo bg */
+  --bg-color-8-l: var(--bg-color-4-l);
+  --bg-color-8-d: var(--bg-color-6-d);
+  /* logo shadow */
+  --bg-color-9-l: #000;
+  --bg-color-9-d: #000;
+  /* logo foreground */
+  --bg-color-10-l: #fff;
+  --bg-color-10-d: var(--color-0-d);
+  
+  /* TEXT COLORS */
+  /* heading */
+  --color-0-l: #6d6d6d;
+  --color-0-d: #e0fffc; 
+  /* dark mode */
+  --color-1-l: #17252A; 
+  --color-1-d: #ececec;
+  /* search label */
+  --color-2-l: var(--color-0-l);
+  --color-2-d: var(--color-0-d); 
+  /* search bar input text */
+  --color-3-l: var(--color-1-l);
+  --color-3-d: var(--color-1-d);
+  /* results headings */
+  --color-4-l: var(--color-0-l); 
+  --color-4-d: var(--color-0-d); 
+  /* results body */
+  --color-5-l: var(--color-1-l); 
+  --color-5-d: var(--color-1-d); 
+  /* footer hedings */
+  --color-6-l: #EEE;  
+  --color-6-d: #EEE;
+  /* footer body */
+  --color-7-l: var(--color-6-l);
+  --color-7-d: var(--color-6-d);
+  
+  --sh-color-1: #000;  
+}
+
+/* BACKGROUND COLORS -------------------------------------------------------------------------- */
+
+body.light.bg_color0 {
+  background-color: var(--bg-color-0-l);
+}
+body.dark.bg_color0 {
+  background-color: var(--bg-color-0-d);
+}
+
+
+body.light .bg_color1 {
+  background-color: var(--bg-color-1-l);
+}
+body.dark .bg_color1 {
+  background-color: var(--bg-color-1-d);
+}
+
+
+body.light .bg_color2 {
+  background-color: var(--bg-color-2-l);
+}
+body.dark .bg_color2 {
+  background-color: var(--bg-color-2-d);
+}
+
+
+body.light .bg_color3 {
+  background-color: var(--bg-color-3-l);
+}
+body.dark .bg_color3 {
+  background-color: var(--bg-color-3-d);
+}
+
+
+body.light .bg_color4 {
+  background-color: var(--bg-color-4-l);
+}
+body.dark .bg_color4 {
+  background-color: var(--bg-color-4-d);
+}
+
+
+body.light .bg_color5 {
+  background-color: var(--bg-color-5-l);
+}
+body.dark .bg_color5 {
+  background-color: var(--bg-color-5-d);
+}
+
+
+body.light .bg_color6 {
+  background-color: var(--bg-color-6-l);
+}
+body.dark .bg_color6 {
+  background-color: var(--bg-color-6-d);
+}
+
+
+body.light .bg_color7 {
+  background-color: var(--bg-color-7-l);
+}
+body.dark .bg_color7 {
+  background-color: var(--bg-color-7-d);
+}
+
+
+body.light .bg_color8 {
+  fill: var(--bg-color-8-l);
+}
+body.dark .bg_color8 {
+  fill: var(--bg-color-8-d);
+}
+
+
+body.light .bg_color9 {
+  fill: var(--bg-color-9-l);
+}
+body.dark .bg_color9 {
+  fill: var(--bg-color-9-d);
+}
+
+
+body.light .bg_color10 {
+  fill: var(--bg-color-10-l);
+}
+body.dark .bg_color10 {
+  fill: var(--bg-color-10-d);
+}
+
+/* COLORS -------------------------------------------------------------------------------------- */
+
+body.light .color0 {
+  color: var(--color-0-l);
+}
+body.dark .color0 {
+  color: var(--color-0-d);
+}
+
+body.light .color1 {
+  color: var(--color-1-l);
+}
+body.dark .color1 {
+  color: var(--color-1-d);
+}
+
+body.light .color2 {
+  color: var(--color-2-l);
+}
+body.dark .color2 {
+  color: var(--color-2-d);
+}
+
+body.light .color3 {
+  color: var(--color-3-l);
+}
+body.dark .color3 {
+  color: var(--color-3-d);
+}
+
+body.light .color4 {
+  color: var(--color-4-l);
+}
+body.dark .color4 {
+  color: var(--color-4-d);
+}
+
+body.light .color5 {
+  color: var(--color-5-l);
+}
+body.dark .color5 {
+  color: var(--color-5-d);
+}
+
+body.light .color6 {
+  color: var(--color-6-l);
+}
+body.dark .color6 {
+  color: var(--color-6-d);
+}
+
+body.light .color7 {
+  color: var(--color-7-l);
+}
+body.dark .color7 {
+  color: var(--color-7-d);
+}
+
