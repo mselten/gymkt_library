@@ -14,14 +14,15 @@ class Database {
        $search_query = "SELECT section, location, record_number, year, price, author_surname, author_first_name, name, name_2 FROM books ";
 
        if($column == "all")
-	        $search_query .= "WHERE CONCAT_WS(author_surname, author_first_name, name, name_2) ";
+	        $search_query .= "WHERE CONCAT_WS(\"-\",\"-\",author_surname, author_first_name, name, name_2) ";
        else
-            $search_query .= "WHERE $column ";
+            $search_query .= "WHERE CONCAT(\"-\", $column, \"-\")";
 
 
-       if($exact_match)
-	        $search_query .= "= CONVERT(:request USING utf8mb4) COLLATE utf8mb4_general_ci";
-	   else {
+       if($exact_match) {
+           $request = "%-" . $request . "-%";
+           $search_query .= "LIKE CONVERT(:request USING utf8mb4) COLLATE utf8mb4_general_ci";
+       } else {
 	       $request = "%" . $request . "%";
            $search_query .= "LIKE CONVERT(:request USING utf8mb4) COLLATE utf8mb4_general_ci";
        }
