@@ -3,7 +3,7 @@
 ## TODO:
 ```
 - KUBA
-        - repair footer
+        - repair footer (not the whole link to git but just link 
         - check mobile version
         - improve footer
         - modernize css...
@@ -11,27 +11,21 @@
         - play with logo
 
 - MAREK
-    	- validate user input - book search - sql injection
-        - search in database without accent characters (maybe make search table withought accent???????)
-        - make search case insensitive, diacritic insensitive
-
-
+        - sort results 
 
 - GENERAL
     	- check security (.htaccess, etc...)
-        - check for sql injection
+        - create separate basic layout  
+        - add config.php to .gitignore and delete on github leave only local coppy with local setting
         - finish alpha version
         - make search bar stay at place while moving with page
-        - change font??
         - web page icon (done but change colors according to css)
         - add the robot.txt and other similar files
         - search suggestions
         - improve for smartphone use (lanscape mode work, but not portrait mode)
         - make url nicer user wont know which folder is he in
         - index the database????
-        - logo square?, remove shadow?
         - add SAVEPOINT to database
-        - spaces between name and surname always if not after dash or dot
 ```
 
 ## Architecture
