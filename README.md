@@ -15,6 +15,10 @@
         - sort results 
 
 - GENERAL
+        - howering search bar same size as results
+        - highlight found match
+        - highlight "zadejte nazev knihy" 
+        - footer
     	- check security (.htaccess, etc...)
         - create separate basic layout  
         - add config.php to .gitignore and delete on github leave only local coppy with local setting

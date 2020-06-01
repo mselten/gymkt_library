@@ -11,7 +11,7 @@ class Database {
 	   $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
 	   $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-       $search_query = "SELECT section, location, record_number, year, price, author_surname, author_first_name, name, name_2 FROM books ";
+       $search_query = "SELECT id, section, location, record_number, year, price, author_surname, author_first_name, name, name_2 FROM books ";
 
        if($column == "all")
 	        $search_query .= "WHERE CONCAT_WS(\"-\",\"-\",author_surname, author_first_name, name, name_2) ";
