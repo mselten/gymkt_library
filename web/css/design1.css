@@ -119,7 +119,7 @@ body.dark #label_darkMode_buttonBc {
 
 .fixed_position #search_window {
   position: fixed;
-  width:60%;
+  width:55%;
   top: 140px;
   left: 0;
   right: 0;
@@ -141,6 +141,15 @@ body.dark #label_darkMode_buttonBc {
 }
 
 /* FOOTER INFO ------------------------------------------------------------------------------- */
+
+.section {
+  position: relative;
+  float: left;
+  padding: 5px;
+  text-align:center;
+  margin: auto;
+  width: 170px;
+}
 
 .tooltip {
   position: relative;
@@ -183,8 +192,8 @@ body.dark #label_darkMode_buttonBc {
 
 /* LIGHT MODE -------------------------------------------------------------------------------- */
 
-body.light {
-  background-image: url("resources/light_bc.jpg");
+body.light, body.light #eater {
+  background-image: url("resources/light_bc.svg");
   background-size: 1100px;
 }
 
@@ -198,7 +207,7 @@ body.light footer {
 
 /* DARK MODE --------------------------------------------------------------------------------- */
 
-body.dark {
+body.dark, body.dark #eater {
   background-image: url("resources/dark_bc.jpg");
   background-size: 1100px;
 }
@@ -274,8 +283,8 @@ body.dark footer {
   --color-6-l: #EEE;  
   --color-6-d: #EEE;
   /* footer body */
-  --color-7-l: var(--color-6-l);
-  --color-7-d: var(--color-6-d);
+  --color-7-l: #BBB;
+  --color-7-d: #BBB;
   
   --sh-color-1: #000;  
 }
