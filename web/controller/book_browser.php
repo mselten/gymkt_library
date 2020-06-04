@@ -7,7 +7,60 @@ class Book_browser {
     function book_search($requested_books) {
         $database = new Database();
 
+        //parse the request to the individual words and get rid of all special characters
         $parsed_words = $this->parse_request($requested_books);
+
+        $raw_search = array();
+        $i = 0;
+        foreach ($parsed_words as $word) {  // search in database for all occurrence of the requested words
+           $raw_search[$i][0] = $database->search_books("$word", "all", true);
+           $raw_search[$i][1] = $database->search_books("$word", "all", false);
+           $i++;
+        }
+
+         //var_dump($raw_search);
+
+        $sorted_results = array();
+        $match_type = 0; // determine match type - if we gonna use exact match_type or LIKE clause
+        for ($i = 0; $i < count($raw_search); $i++) {
+            for ($j = 0; $j < count($raw_search[$i][$match_type]); $j++) {
+                $match_counter = 0;
+               for ($k = $i+1; $k < count($raw_search); $k++) {
+                   for ($l = 0; $l < count($raw_search[$k][$match_type]); $l++) {
+                       if($raw_search[$i][$match_type][$j]["id"] == $raw_search[$k][$match_type][$l]["id"]) {
+                           $match_counter++;
+                       }
+                   }
+               }
+               /*
+               if($match_counter > 0) { //TODO test block
+                   echo $raw_search[$i][1][$j]["name"];
+                   echo $raw_search[$i][1][$j]["author_first_name"];
+                   echo $raw_search[$i][1][$j]["author_surname"];
+                   echo "<br/>";
+               }
+                echo $match_counter;
+                echo "\n";
+                echo $match_counter % count($parsed_words)+$match_type;
+                echo "<br/>";
+               */
+                $sorted_results[$match_counter % count($parsed_words)+$match_type] = $raw_search[$i][$match_type][$j];
+            }
+
+        }
+
+
+        $formated_results = array();
+        //TODO format results
+
+        return 0;
+
+
+
+
+
+
+/*
         $result = array();
 
         foreach ($parsed_words as $word) {
@@ -29,6 +82,7 @@ class Book_browser {
         //return $raw_results;
 
         return $result;
+*/
     }
 
     function parse_request($requested_books) {

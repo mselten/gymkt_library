@@ -3,20 +3,21 @@
 ## TODO:
 ```
 - KUBA
-        - repair footer - done? what else (the info in it needs improving tho...)
         - check mobile version
         - improve footer
-        - modernize css...
-        - add polygons to background
+        - polygons at background svg 
         - play with logo
-        - make search window sticky when scrolling
+        - search bar "eating results 
 
 - MAREK
-        - sort results 
+        - format sorted results       
+        - delete duplicates in results
 
 - GENERAL
         - howering search bar same size as results
+        - multi page results   
         - highlight found match
+        - wierd result from request.php page repete result without going to main page - BUG maybe 
         - highlight "zadejte nazev knihy" 
         - footer
     	- check security (.htaccess, etc...)

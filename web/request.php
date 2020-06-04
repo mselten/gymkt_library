@@ -13,7 +13,7 @@ if ($_POST["search_book"]) {
 
     //view the results and the search bar
     $page_viewer->found_books = $book_browser->book_search($_POST["search_book"]);
-    $page_viewer->view_page("main_page");
+    //$page_viewer->view_page("main_page");
 
 } else {
     $page_viewer->found_books = "empty_entry";
