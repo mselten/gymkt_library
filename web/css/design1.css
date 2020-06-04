@@ -208,7 +208,7 @@ body.light footer {
 /* DARK MODE --------------------------------------------------------------------------------- */
 
 body.dark, body.dark #eater {
-  background-image: url("resources/dark_bc.jpg");
+  background-image: url("resources/dark_bc.svg");
   background-size: 1100px;
 }
 
@@ -291,10 +291,10 @@ body.dark footer {
 
 /* BACKGROUND COLORS -------------------------------------------------------------------------- */
 
-body.light.bg_color0 {
+body.light.bg_color0, body.light .bg_color0 {
   background-color: var(--bg-color-0-l);
 }
-body.dark.bg_color0 {
+body.dark.bg_color0, body.dark .bg_color0 {
   background-color: var(--bg-color-0-d);
 }
 
