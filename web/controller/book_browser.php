@@ -49,11 +49,17 @@ class Book_browser {
 
         }
 
-
         $formated_results = array();
-        //TODO format results
 
-        return 0;
+        for ($i = 0; $i <count ($sorted_results); $i++) {
+            for ($j = 0; $j < count($sorted_results[$i]); $j++) {
+                //TODO check if index exists
+                $formated_results[count($formated_results)] = $sorted_results[$i][$j];
+            }
+        }
+
+        return $formated_results;
+
 
 
 
