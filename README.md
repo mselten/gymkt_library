@@ -3,13 +3,7 @@
 ## TODO:
 ```
 - KUBA
-        - repair footer - done? what else (the info in it needs improving tho...)
         - check mobile version
-        - improve footer
-        - modernize css...
-        - add polygons to background
-        - play with logo
-        - make search window sticky when scrolling
 
 - MAREK
         - sort results 
