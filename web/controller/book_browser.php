@@ -32,29 +32,37 @@ class Book_browser {
                        }
                    }
                }
-               /*
+             /*
                if($match_counter > 0) { //TODO test block
                    echo $raw_search[$i][1][$j]["name"];
                    echo $raw_search[$i][1][$j]["author_first_name"];
                    echo $raw_search[$i][1][$j]["author_surname"];
                    echo "<br/>";
                }
+             */
                 echo $match_counter;
                 echo "\n";
                 echo $match_counter % count($parsed_words)+$match_type;
                 echo "<br/>";
-               */
-                $sorted_results[$match_counter % count($parsed_words)+$match_type] = $raw_search[$i][$match_type][$j];
+
+                $value = $match_counter % count($parsed_words)+$match_type;
+                $sorted_results[$value][count($sorted_results[$value])] = $raw_search[$i][$match_type][$j];
+                //$sorted_results[$value][count($sorted_results[$value])] = $raw_search[$i][$match_type][$j];
+                //echo $sorted_results[$value][count($sorted_results[$value])];
             }
 
         }
+
+       // var_dump($sorted_results);
 
         $formated_results = array();
 
         for ($i = 0; $i <count ($sorted_results); $i++) {
             for ($j = 0; $j < count($sorted_results[$i]); $j++) {
-                //TODO check if index exists
-                $formated_results[count($formated_results)] = $sorted_results[$i][$j];
+                if(isset($sorted_results[$i][$j])){
+                    echo $sorted_results[$i][$j]["name"];
+                    $formated_results[count($formated_results)] = $sorted_results[$i][$j];
+                }
             }
         }
 
