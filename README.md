@@ -6,11 +6,14 @@
         - check mobile version
 
 - MAREK
-        - sort results 
+        - format sorted results       
+        - delete duplicates in results
 
 - GENERAL
         - howering search bar same size as results
+        - multi page results   
         - highlight found match
+        - wierd result from request.php page repete result without going to main page - BUG maybe 
         - highlight "zadejte nazev knihy" 
         - footer
     	- check security (.htaccess, etc...)
@@ -25,6 +28,7 @@
         - make url nicer user wont know which folder is he in
         - index the database????
         - add SAVEPOINT to database
+        - replace count() used to find the end of the array by end()
 ```
 
 ## Architecture
