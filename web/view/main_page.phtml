@@ -4,6 +4,7 @@
 </script>
 
 <!-- HEADER - CONTAINS: LOGO + HEADING + MODE BUTTON-->
+<div class="bg_color0" id="eater" style="width:100%; height:250px; position:fixed; transition:background 0.5s ease, background-position-y 0s ease; background-position-y: 0px"> </div>
 <header  class="bg_color1 full_display shadow_s" id="top_header" style="width:100%;position:fixed;top:0px;left:0px;">
        
         <a href="index.php" target="_self" id= "homepage_logo" style="padding:1px"> 
@@ -34,7 +35,7 @@
         <div id="darkMode_div" style="position:absolute; right:125px; margin:5px;  ">
             <button id="button_darkMode" style="opacity:0;float:left" onClick="switchMode();" > </button>
             <label class="color1" id="label_darkMode_text" style="float:left; position:relative; cursor:pointer" for="button_darkMode" > 
-               Temný režim:
+               Tmavý režim:
             </label>
             <label style="float:left; position:relative; margin-left:5px; cursor:pointer" for="button_darkMode">
               <div style="position:absolute; top:0.4em" >
@@ -73,6 +74,10 @@
         
     </div>
   </div>
+  
+  <script type ="text/JavaScript">
+           updateElements();
+  </script>
   
   <!--  RESULTS -->
     <div class="bg_color5 hidden min_w shadow_se" id="search_results" >
@@ -136,29 +141,29 @@
 </div>
 
 <!-- FOOTER - CONTAINS: CONTACTS (TBA) -->
-<footer class="bg_color7 min_w" style="width:100%;min-width: 900px; min-height:100px;padding-top:20px; padding-bottom:20px">
+<footer class="bg_color7 min_w" style="width:100%;min-width: 700px; min-height:100px;padding-top:20px;">
   
-  <div class="color7" style="width:fit-content; margin:auto;">   
-      <div class="tooltip">
-        Vývoj
-        <span class="tiptext" style="width:220px; margin-left:-110px;" > Jakub Jankovec <br /> Marek Seltenhofer </span>
+  <div class="color6" style="width:fit-content; margin:auto;">   
+      <div class="section">
+        Vývoj <br />
+        <span class="color7"> Jakub Jankovec <br /> Marek Seltenhofer </span>
       </div>
        
-      <div class="tooltip">
-        Administrace
-        <span class="tiptext" style="width:220px; margin-left:-110px;"> Mgr. Pavel Hladký </span>
+      <div class="section">
+        Administrace <br />
+        <span class="color7"> Mgr. Pavel Hladký </span>
       </div>
    
-      <div class="tooltip">
-        SPEF
-        <span class="tiptext" style="width:100px; margin-left:-50px;"> SPEF </span>
+      <div class="section" style="width:130px">
+        SPEF <br />
+        <span class="color7"> SPEF </span>
       </div>
    
-      <div class="tooltip">
-        Git
-        <span class="tiptext" style="width:330px; margin-left:-165px;"> 
+      <div class="section" style="width:140px">
+        Git <br />
+        <span class="color7"> 
         <a href="https://www.github.com/mselten/gymkt_library" target="_blank" > 
-          github.com/mselten/gymkt_library 
+          github.com 
         </a> 
         </span>
       </div>

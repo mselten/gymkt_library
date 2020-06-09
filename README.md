@@ -4,10 +4,6 @@
 ```
 - KUBA
         - check mobile version
-        - improve footer
-        - polygons at background svg 
-        - play with logo
-        - search bar "eating results 
 
 - MAREK
         - format sorted results       
