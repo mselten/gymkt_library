@@ -32,6 +32,7 @@
         - make url nicer user wont know which folder is he in
         - index the database????
         - add SAVEPOINT to database
+        - replace count() used to find the end of the array by end()
 ```
 
 ## Architecture
