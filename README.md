@@ -10,12 +10,9 @@
         - delete duplicates in results
 
 - GENERAL
-        - howering search bar same size as results
         - multi page results   
         - highlight found match
         - wierd result from request.php page repete result without going to main page - BUG maybe 
-        - highlight "zadejte nazev knihy" 
-        - footer
     	- check security (.htaccess, etc...)
         - create separate basic layout  
         - add config.php to .gitignore and delete on github leave only local coppy with local setting
