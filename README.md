@@ -6,15 +6,16 @@
         - check mobile version
 
 - MAREK
-        - format sorted results       
+        - format sorted results
         - delete duplicates in results
+		- ü add to database
 
 - GENERAL
-        - multi page results   
+        - multi page results
         - highlight found match
-        - wierd result from request.php page repete result without going to main page - BUG maybe 
+        - wierd result from request.php page repete result without going to main page - BUG maybe
     	- check security (.htaccess, etc...)
-        - create separate basic layout  
+        - create separate basic layout
         - add config.php to .gitignore and delete on github leave only local coppy with local setting
         - finish alpha version
         - make search bar stay at place while moving with page
