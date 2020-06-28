@@ -82,7 +82,7 @@ class Book_browser {
     }
 
     function parse_request($requested_books) {
-    	$no_special_char = preg_replace('/[^A-Za-z0-9áčďéěíňóřšťúůýžľÁČĎÉĚÍŇÓŘŠŤÚŮÝŽĽ]/', '-', $requested_books);
+    	$no_special_char = preg_replace('/[^A-Za-z0-9áčďéěíňóřšťúůýžľüöÁČĎÉĚÍŇÓŘŠŤÚŮÝŽĽÜÖß]/', '-', $requested_books);
     	$no_multiple_hyphens = preg_replace('/-+/', '-', $no_special_char);
     	$no_multiple_hyphens = trim($no_multiple_hyphens, "-");
     	$parsed_words = explode('-', $no_multiple_hyphens);
